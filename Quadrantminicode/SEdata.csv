@@ -1,0 +1,1566 @@
+INCIDENT INFO,Longitude,Latitude,DewPoint,RelativeHumidity,WindDirection,WindSpeed,Visibility,Pressure,Weather,cluster_label
+Northbound 52 Street and 106 Avenue SE,-113.9589582,50.95784607,-10.8,74,19,9,24.1,88.78,Cloudy ,8
+Eastbound Stoney Trail and 52 Street SE,-113.9559007,50.90323089,-9.1,42,28,24,64.4,89.19,Mainly Clear ,6
+Southbound Stoney Trail at Glenmore Trail SE,-113.9292702,50.97964026,-7.3,89,1,32,3.2,87.97, ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9292702,50.97964026,-7.3,89,1,32,3.2,87.97, ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9292702,50.97964026,-7.3,89,1,32,3.2,87.97, ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9292702,50.97964026,-7.3,89,1,32,3.2,87.97, ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9292702,50.97964026,-7.3,89,1,32,3.2,87.97, ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9218434,50.98757301,-2.6,94,1,10,0.8,87.71, ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9218434,50.98757301,-2.6,94,1,10,0.8,87.71, ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9218434,50.98757301,-2.6,94,1,10,0.8,87.71, ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9218434,50.98757301,-2.6,94,1,10,0.8,87.71, ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9218434,50.98757301,-2.6,94,1,10,0.8,87.71, ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9206895,50.97357856,-2.6,94,1,10,0.8,87.71, ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9206895,50.97357856,-2.6,94,1,10,0.8,87.71, ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9206895,50.97357856,-2.6,94,1,10,0.8,87.71, ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9206895,50.97357856,-2.6,94,1,10,0.8,87.71, ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9206895,50.97357856,-2.6,94,1,10,0.8,87.71, ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9292702,50.97964026,-22.4,62,20,9,24.1,88.78,Mainly Clear ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9292702,50.97964026,-22.4,62,20,9,24.1,88.78,Mainly Clear ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9292702,50.97964026,-22.4,62,20,9,24.1,88.78,Mainly Clear ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9292702,50.97964026,-22.4,62,20,9,24.1,88.78,Mainly Clear ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9292702,50.97964026,-22.4,62,20,9,24.1,88.78,Mainly Clear ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9205692,50.97519953,-4.5,56,36,2,64.4,89.28,Clear ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9205692,50.97519953,-4.5,56,36,2,64.4,89.28,Clear ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9205692,50.97519953,-4.5,56,36,2,64.4,89.28,Clear ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9205692,50.97519953,-4.5,56,36,2,64.4,89.28,Clear ,7
+Southbound Stoney Trail at Glenmore Trail SE,-113.9205692,50.97519953,-4.5,56,36,2,64.4,89.28,Clear ,7
+52 Street and Auburn Bay Avenue SE,-113.9431653,50.89103967,-3.3,94,12,22,0.4,87.82,Heavy Snow ,6
+52 Street and Auburn Bay Avenue SE,-113.9431653,50.89103967,-3.3,94,12,22,0.4,87.82,Heavy Snow ,6
+52 Street and Auburn Bay Avenue SE,-113.9431653,50.89103967,-3.3,94,12,22,0.4,87.82,Heavy Snow ,6
+52 Street and Auburn Bay Avenue SE,-113.9431653,50.89103967,-16.4,74,36,18,4.8,89.76, ,6
+52 Street and Auburn Bay Avenue SE,-113.9431653,50.89103967,-16.4,74,36,18,4.8,89.76, ,6
+52 Street and Auburn Bay Avenue SE,-113.9431653,50.89103967,-16.4,74,36,18,4.8,89.76, ,6
+52 Street and Auburn Bay Avenue SE,-113.942601,50.89103931,5.8,25,6,13,16.1,89.68,27,6
+52 Street and Auburn Bay Avenue SE,-113.942601,50.89103931,5.8,25,6,13,16.1,89.68,27,6
+52 Street and Auburn Bay Avenue SE,-113.942601,50.89103931,5.8,25,6,13,16.1,89.68,27,6
+Westbound 130 Avenue at Deerfoot Trail SE,-113.9719877,50.93204337,-7.2,54,21,12,64.4,87.64,Mostly Cloudy ,6
+Westbound 130 Avenue at Deerfoot Trail SE,-113.9719877,50.93204337,-7.2,54,21,12,64.4,87.64,Mostly Cloudy ,6
+Westbound 130 Avenue at Deerfoot Trail SE,-113.9719877,50.93204337,-7.2,54,21,12,64.4,87.64,Mostly Cloudy ,6
+Westbound 130 Avenue at Deerfoot Trail SE,-113.9788897,50.93198252,-3.2,39,20,7,24.1,89.8,Mostly Cloudy ,6
+Westbound 130 Avenue at Deerfoot Trail SE,-113.9788897,50.93198252,-3.2,39,20,7,24.1,89.8,Mostly Cloudy ,6
+Westbound 130 Avenue at Deerfoot Trail SE,-113.9788897,50.93198252,-3.2,39,20,7,24.1,89.8,Mostly Cloudy ,6
+Westbound 130 Avenue at Deerfoot Trail SE,-113.9717938,50.9320293,5.7,30,23,23,64.4,87.79,Mostly Cloudy ,6
+Westbound 130 Avenue at Deerfoot Trail SE,-113.9717938,50.9320293,5.7,30,23,23,64.4,87.79,Mostly Cloudy ,6
+Westbound 130 Avenue at Deerfoot Trail SE,-113.9717938,50.9320293,5.7,30,23,23,64.4,87.79,Mostly Cloudy ,6
+Northbound 52 Street approaching Stoney Trail SE,-113.9461843,50.90285508,-8.8,93,16,16,2,89.22, ,6
+Northbound 52 Street approaching Stoney Trail SE,-113.9461843,50.90285508,-8.8,93,16,16,2,89.22, ,6
+Northbound 52 Street approaching Stoney Trail SE,-113.9460838,50.90274401,-33,71,36,10,11.3,88.85,Ice Crystals ,6
+Northbound 52 Street approaching Stoney Trail SE,-113.9460838,50.90274401,-33,71,36,10,11.3,88.85,Ice Crystals ,6
+Northbound Deerfoot Trail south of Stoney Trail SE,-113.9731334,50.89391687,-0.3,97,3,24,2.4,88.83, ,6
+McKenzie Lake Boulevard and Mt McKenzie Drive SE,-113.9814758,50.91645854,-1.3,38,28,28,64.4,88.62,Mostly Cloudy ,6
+McIvor Boulevard and 130 Avenue SE,-113.9352694,50.92835686,-9.6,48,22,14,24.1,90.07,Mainly Clear ,6
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-7.2,35,14,3,56.3,88.11,Mostly Cloudy ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-7.2,35,14,3,56.3,88.11,Mostly Cloudy ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-7.2,35,14,3,56.3,88.11,Mostly Cloudy ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-7.2,35,14,3,56.3,88.11,Mostly Cloudy ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-7.2,35,14,3,56.3,88.11,Mostly Cloudy ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-7.2,35,14,3,56.3,88.11,Mostly Cloudy ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-7.2,35,14,3,56.3,88.11,Mostly Cloudy ,8
+114 Avenue and 52 Street SE,-113.9581838,50.95049244,6.3,42,4,11,48.3,89.05,Mainly Clear ,8
+114 Avenue and 52 Street SE,-113.9581838,50.95049244,6.3,42,4,11,48.3,89.05,Mainly Clear ,8
+114 Avenue and 52 Street SE,-113.9581838,50.95049244,6.3,42,4,11,48.3,89.05,Mainly Clear ,8
+114 Avenue and 52 Street SE,-113.9581838,50.95049244,6.3,42,4,11,48.3,89.05,Mainly Clear ,8
+114 Avenue and 52 Street SE,-113.9581838,50.95049244,6.3,42,4,11,48.3,89.05,Mainly Clear ,8
+114 Avenue and 52 Street SE,-113.9581838,50.95049244,6.3,42,4,11,48.3,89.05,Mainly Clear ,8
+114 Avenue and 52 Street SE,-113.9581838,50.95049244,6.3,42,4,11,48.3,89.05,Mainly Clear ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-5.1,37,28,8,24.1,87.26,Mostly Cloudy ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-5.1,37,28,8,24.1,87.26,Mostly Cloudy ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-5.1,37,28,8,24.1,87.26,Mostly Cloudy ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-5.1,37,28,8,24.1,87.26,Mostly Cloudy ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-5.1,37,28,8,24.1,87.26,Mostly Cloudy ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-5.1,37,28,8,24.1,87.26,Mostly Cloudy ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-5.1,37,28,8,24.1,87.26,Mostly Cloudy ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-8.7,58,17,12,24.1,88.39,Mostly Cloudy ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-8.7,58,17,12,24.1,88.39,Mostly Cloudy ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-8.7,58,17,12,24.1,88.39,Mostly Cloudy ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-8.7,58,17,12,24.1,88.39,Mostly Cloudy ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-8.7,58,17,12,24.1,88.39,Mostly Cloudy ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-8.7,58,17,12,24.1,88.39,Mostly Cloudy ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-8.7,58,17,12,24.1,88.39,Mostly Cloudy ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-0.6,60,0,1,64.4,87.37,Mainly Clear ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-0.6,60,0,1,64.4,87.37,Mainly Clear ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-0.6,60,0,1,64.4,87.37,Mainly Clear ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-0.6,60,0,1,64.4,87.37,Mainly Clear ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-0.6,60,0,1,64.4,87.37,Mainly Clear ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-0.6,60,0,1,64.4,87.37,Mainly Clear ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-0.6,60,0,1,64.4,87.37,Mainly Clear ,8
+114 Avenue and 52 Street SE,-113.958466,50.95036039,-0.6,60,0,1,64.4,87.37,Mainly Clear ,8
+114 Avenue and 52 Street SE,-113.958466,50.95036039,-0.6,60,0,1,64.4,87.37,Mainly Clear ,8
+114 Avenue and 52 Street SE,-113.958466,50.95036039,-0.6,60,0,1,64.4,87.37,Mainly Clear ,8
+114 Avenue and 52 Street SE,-113.958466,50.95036039,-0.6,60,0,1,64.4,87.37,Mainly Clear ,8
+114 Avenue and 52 Street SE,-113.958466,50.95036039,-0.6,60,0,1,64.4,87.37,Mainly Clear ,8
+114 Avenue and 52 Street SE,-113.958466,50.95036039,-0.6,60,0,1,64.4,87.37,Mainly Clear ,8
+114 Avenue and 52 Street SE,-113.958466,50.95036039,-0.6,60,0,1,64.4,87.37,Mainly Clear ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-16.7,81,1,12,2,88.3, ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-16.7,81,1,12,2,88.3, ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-16.7,81,1,12,2,88.3, ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-16.7,81,1,12,2,88.3, ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-16.7,81,1,12,2,88.3, ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-16.7,81,1,12,2,88.3, ,8
+114 Avenue and 52 Street SE,-113.9586708,50.95059537,-16.7,81,1,12,2,88.3, ,8
+Northbound 52 Street at New Brighton Drive SE,-113.9579785,50.92543806,-6.3,64,18,14,40.2,88.41,Mostly Cloudy ,6
+Northbound 52 Street at New Brighton Drive SE,-113.9579785,50.92543806,-6.3,64,18,14,40.2,88.41,Mostly Cloudy ,6
+Northbound 52 Street at New Brighton Drive SE,-113.9580438,50.92518142,4.2,22,17,37,56.3,88.83,26,6
+Northbound 52 Street at New Brighton Drive SE,-113.9580438,50.92518142,4.2,22,17,37,56.3,88.83,26,6
+52 Street and 90 Avenue SE,-113.9585181,50.97239798,-6.3,75,20,23,64.4,88.65,Clear ,8
+52 Street and 90 Avenue SE,-113.9585181,50.97239798,-6.3,75,20,23,64.4,88.65,Clear ,8
+52 Street and 90 Avenue SE,-113.9585181,50.97239798,-6.3,75,20,23,64.4,88.65,Clear ,8
+52 Street and 90 Avenue SE,-113.9585181,50.97239798,-6.3,75,20,23,64.4,88.65,Clear ,8
+52 Street and 90 Avenue SE,-113.9585181,50.97239798,-6.3,75,20,23,64.4,88.65,Clear ,8
+52 Street and 90 Avenue SE,-113.9592036,50.9723512,-6.3,75,20,23,64.4,88.65,Clear ,8
+52 Street and 90 Avenue SE,-113.9592036,50.9723512,-6.3,75,20,23,64.4,88.65,Clear ,8
+52 Street and 90 Avenue SE,-113.9592036,50.9723512,-6.3,75,20,23,64.4,88.65,Clear ,8
+52 Street and 90 Avenue SE,-113.9592036,50.9723512,-6.3,75,20,23,64.4,88.65,Clear ,8
+52 Street and 90 Avenue SE,-113.9592036,50.9723512,-6.3,75,20,23,64.4,88.65,Clear ,8
+52 Street and 90 Avenue SE,-113.9592036,50.9723512,3.2,68,34,11,24.1,89.02,Mostly Cloudy ,8
+52 Street and 90 Avenue SE,-113.9592036,50.9723512,3.2,68,34,11,24.1,89.02,Mostly Cloudy ,8
+52 Street and 90 Avenue SE,-113.9592036,50.9723512,3.2,68,34,11,24.1,89.02,Mostly Cloudy ,8
+52 Street and 90 Avenue SE,-113.9592036,50.9723512,3.2,68,34,11,24.1,89.02,Mostly Cloudy ,8
+52 Street and 90 Avenue SE,-113.9592036,50.9723512,3.2,68,34,11,24.1,89.02,Mostly Cloudy ,8
+52 Street and 90 Avenue SE,-113.9585008,50.97231113,3,91,2,8,8.1,87.96, ,8
+52 Street and 90 Avenue SE,-113.9585008,50.97231113,3,91,2,8,8.1,87.96, ,8
+52 Street and 90 Avenue SE,-113.9585008,50.97231113,3,91,2,8,8.1,87.96, ,8
+52 Street and 90 Avenue SE,-113.9585008,50.97231113,3,91,2,8,8.1,87.96, ,8
+52 Street and 90 Avenue SE,-113.9585008,50.97231113,3,91,2,8,8.1,87.96, ,8
+52 Street and 90 Avenue SE,-113.9592036,50.9723512,-27,60,6,5,24.1,88.55,Mainly Clear ,8
+52 Street and 90 Avenue SE,-113.9592036,50.9723512,-27,60,6,5,24.1,88.55,Mainly Clear ,8
+52 Street and 90 Avenue SE,-113.9592036,50.9723512,-27,60,6,5,24.1,88.55,Mainly Clear ,8
+52 Street and 90 Avenue SE,-113.9592036,50.9723512,-27,60,6,5,24.1,88.55,Mainly Clear ,8
+52 Street and 90 Avenue SE,-113.9592036,50.9723512,-27,60,6,5,24.1,88.55,Mainly Clear ,8
+Southbound 52 Street at 90 Avenue SE,-113.9586424,50.97234031,-6.3,75,20,23,64.4,88.65,Clear ,8
+Southbound Glenmore Trail at 52 Street SE,-113.9589838,50.97924795,-4.8,81,34,23,24.1,87.57,Clear ,8
+Northbound Deerfoot Trail south of Seton Boulevard SE,-113.971644,50.8918285,-6.3,87,19,8,24.1,88.43,Clear ,6
+52 Street and 106 Avenue SE,-113.9589582,50.95784607,-12.3,87,23,19,9.7,89.46, ,8
+52 Street and Mahogany Street SE,-113.9433315,50.8965613,-8.5,93,9,18,6.4,87.43,Mainly Clear ,6
+52 Street and Mahogany Street SE,-113.9433315,50.8965613,-8.5,93,9,18,6.4,87.43,Mainly Clear ,6
+52 Street and Mahogany Street SE,-113.9433315,50.8965613,-8.5,93,9,18,6.4,87.43,Mainly Clear ,6
+52 Street and Mahogany Street SE,-113.9433315,50.8965613,-8.5,93,9,18,6.4,87.43,Mainly Clear ,6
+52 Street and Mahogany Street SE,-113.9433315,50.8965613,-6.6,84,36,28,22.5,87.76,Snow Showers ,6
+52 Street and Mahogany Street SE,-113.9433315,50.8965613,-6.6,84,36,28,22.5,87.76,Snow Showers ,6
+52 Street and Mahogany Street SE,-113.9433315,50.8965613,-6.6,84,36,28,22.5,87.76,Snow Showers ,6
+52 Street and Mahogany Street SE,-113.9433315,50.8965613,-6.6,84,36,28,22.5,87.76,Snow Showers ,6
+52 Street and Mahogany Street SE,-113.9433315,50.8965613,-2.8,87,6,12,1.2,89.12,Moderate Snow ,6
+52 Street and Mahogany Street SE,-113.9433315,50.8965613,-2.8,87,6,12,1.2,89.12,Moderate Snow ,6
+52 Street and Mahogany Street SE,-113.9433315,50.8965613,-2.8,87,6,12,1.2,89.12,Moderate Snow ,6
+52 Street and Mahogany Street SE,-113.9433315,50.8965613,-2.8,87,6,12,1.2,89.12,Moderate Snow ,6
+52 Street and Mahogany Street SE,-113.9433315,50.8965613,11.4,55,16,10,12.9,88.33,Cloudy ,6
+52 Street and Mahogany Street SE,-113.9433315,50.8965613,11.4,55,16,10,12.9,88.33,Cloudy ,6
+52 Street and Mahogany Street SE,-113.9433315,50.8965613,11.4,55,16,10,12.9,88.33,Cloudy ,6
+52 Street and Mahogany Street SE,-113.9433315,50.8965613,11.4,55,16,10,12.9,88.33,Cloudy ,6
+Southbound 52 Street and Prestwick Avenue SE,-113.9583333,50.92267118,-6.1,79,34,8,48.3,87.56,Cloudy ,6
+Eastbound Glenmore Trail at Barlow Trail SE,-113.9815002,50.97871627,-12.3,62,20,13,56.3,88.16,Mostly Cloudy ,8
+Eastbound Glenmore Trail at Barlow Trail SE,-113.9815002,50.97871627,-12.3,62,20,13,56.3,88.16,Mostly Cloudy ,8
+Eastbound Glenmore Trail at Barlow Trail SE,-113.9815002,50.97871627,-12.3,62,20,13,56.3,88.16,Mostly Cloudy ,8
+Eastbound Glenmore Trail at Barlow Trail SE,-113.9815002,50.97871627,-12.3,62,20,13,56.3,88.16,Mostly Cloudy ,8
+Eastbound Glenmore Trail at Barlow Trail SE,-113.9848266,50.97866452,-16,35,27,30,64.4,88.88,Mainly Clear ,8
+Eastbound Glenmore Trail at Barlow Trail SE,-113.9848266,50.97866452,-16,35,27,30,64.4,88.88,Mainly Clear ,8
+Eastbound Glenmore Trail at Barlow Trail SE,-113.9848266,50.97866452,-16,35,27,30,64.4,88.88,Mainly Clear ,8
+Eastbound Glenmore Trail at Barlow Trail SE,-113.9848266,50.97866452,-16,35,27,30,64.4,88.88,Mainly Clear ,8
+Eastbound Glenmore Trail at Barlow Trail SE,-113.9824759,50.97865466,1.3,93,1,15,8.1,88.93, ,8
+Eastbound Glenmore Trail at Barlow Trail SE,-113.9824759,50.97865466,1.3,93,1,15,8.1,88.93, ,8
+Eastbound Glenmore Trail at Barlow Trail SE,-113.9824759,50.97865466,1.3,93,1,15,8.1,88.93, ,8
+Eastbound Glenmore Trail at Barlow Trail SE,-113.9824759,50.97865466,1.3,93,1,15,8.1,88.93, ,8
+Eastbound Glenmore Trail at Barlow Trail SE,-113.9815998,50.97870532,1.3,93,1,15,8.1,88.93, ,8
+Eastbound Glenmore Trail at Barlow Trail SE,-113.9815998,50.97870532,1.3,93,1,15,8.1,88.93, ,8
+Eastbound Glenmore Trail at Barlow Trail SE,-113.9815998,50.97870532,1.3,93,1,15,8.1,88.93, ,8
+Eastbound Glenmore Trail at Barlow Trail SE,-113.9815998,50.97870532,1.3,93,1,15,8.1,88.93, ,8
+Southbound Stoney Trail ramp to Westbound Glenmore Trail SE,-113.924261,50.97988407,-10.6,79,36,36,8.1,88.69, ,7
+Eastbound Stoney Trail and 88 Street SE,-113.9073269,50.90656019,-3.7,90,34,30,2,88.29, ,6
+Stoney Trail after 114 Avenue SE,-113.9294816,50.94941477,-3.7,90,34,30,2,88.29, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-2.2,93,32,23,0.4,88.02,Heavy Snow ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-2.2,93,32,23,0.4,88.02,Heavy Snow ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-2.2,93,32,23,0.4,88.02,Heavy Snow ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-2.2,93,32,23,0.4,88.02,Heavy Snow ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-2.2,93,32,23,0.4,88.02,Heavy Snow ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-2.2,93,32,23,0.4,88.02,Heavy Snow ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-2.2,93,32,23,0.4,88.02,Heavy Snow ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9209418,50.98496616,-3.4,90,2,28,1,89.7, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9209418,50.98496616,-3.4,90,2,28,1,89.7, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9209418,50.98496616,-3.4,90,2,28,1,89.7, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9209418,50.98496616,-3.4,90,2,28,1,89.7, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9209418,50.98496616,-3.4,90,2,28,1,89.7, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9209418,50.98496616,-3.4,90,2,28,1,89.7, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9209418,50.98496616,-3.4,90,2,28,1,89.7, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-5.9,86,33,18,2.8,88.77, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-5.9,86,33,18,2.8,88.77, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-5.9,86,33,18,2.8,88.77, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-5.9,86,33,18,2.8,88.77, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-5.9,86,33,18,2.8,88.77, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-5.9,86,33,18,2.8,88.77, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-5.9,86,33,18,2.8,88.77, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,12.6,55,36,30,24.1,88.56,25,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,12.6,55,36,30,24.1,88.56,25,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,12.6,55,36,30,24.1,88.56,25,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,12.6,55,36,30,24.1,88.56,25,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,12.6,55,36,30,24.1,88.56,25,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,12.6,55,36,30,24.1,88.56,25,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,12.6,55,36,30,24.1,88.56,25,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-5.2,90,18,9,6.4,87.73, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-5.2,90,18,9,6.4,87.73, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-5.2,90,18,9,6.4,87.73, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-5.2,90,18,9,6.4,87.73, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-5.2,90,18,9,6.4,87.73, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-5.2,90,18,9,6.4,87.73, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-5.2,90,18,9,6.4,87.73, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-4.9,81,5,5,6.4,88.42, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-4.9,81,5,5,6.4,88.42, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-4.9,81,5,5,6.4,88.42, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-4.9,81,5,5,6.4,88.42, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-4.9,81,5,5,6.4,88.42, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-4.9,81,5,5,6.4,88.42, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-4.9,81,5,5,6.4,88.42, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-4.5,86,36,29,8.1,87.84, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-4.5,86,36,29,8.1,87.84, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-4.5,86,36,29,8.1,87.84, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-4.5,86,36,29,8.1,87.84, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-4.5,86,36,29,8.1,87.84, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-4.5,86,36,29,8.1,87.84, ,7
+Northbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-4.5,86,36,29,8.1,87.84, ,7
+Stoney Trail and 114 Avenue SE,-113.9294816,50.94941477,-2.2,93,32,23,0.4,88.02,Heavy Snow ,7
+Stoney Trail and 114 Avenue SE,-113.9294816,50.94941477,-2.2,93,32,23,0.4,88.02,Heavy Snow ,7
+Stoney Trail and 114 Avenue SE,-113.9294816,50.94941477,-2.2,93,32,23,0.4,88.02,Heavy Snow ,7
+Stoney Trail and 114 Avenue SE,-113.9294816,50.94941477,-2.2,93,32,23,0.4,88.02,Heavy Snow ,7
+Stoney Trail and 114 Avenue SE,-113.9294816,50.94941477,-2.2,93,32,23,0.4,88.02,Heavy Snow ,7
+Stoney Trail and 114 Avenue SE,-113.9294816,50.94941477,1.8,60,17,23,24.1,89.21,Mostly Cloudy ,7
+Stoney Trail and 114 Avenue SE,-113.9294816,50.94941477,1.8,60,17,23,24.1,89.21,Mostly Cloudy ,7
+Stoney Trail and 114 Avenue SE,-113.9294816,50.94941477,1.8,60,17,23,24.1,89.21,Mostly Cloudy ,7
+Stoney Trail and 114 Avenue SE,-113.9294816,50.94941477,1.8,60,17,23,24.1,89.21,Mostly Cloudy ,7
+Stoney Trail and 114 Avenue SE,-113.9294816,50.94941477,1.8,60,17,23,24.1,89.21,Mostly Cloudy ,7
+Stoney Trail and 114 Avenue SE,-113.9294816,50.94941477,-7.8,38,27,15,48.3,88.62,Clear ,7
+Stoney Trail and 114 Avenue SE,-113.9294816,50.94941477,-7.8,38,27,15,48.3,88.62,Clear ,7
+Stoney Trail and 114 Avenue SE,-113.9294816,50.94941477,-7.8,38,27,15,48.3,88.62,Clear ,7
+Stoney Trail and 114 Avenue SE,-113.9294816,50.94941477,-7.8,38,27,15,48.3,88.62,Clear ,7
+Stoney Trail and 114 Avenue SE,-113.9294816,50.94941477,-7.8,38,27,15,48.3,88.62,Clear ,7
+Stoney Trail and 114 Avenue SE,-113.9200031,50.9522109,-3.4,91,2,28,0.8,89.75, ,7
+Stoney Trail and 114 Avenue SE,-113.9200031,50.9522109,-3.4,91,2,28,0.8,89.75, ,7
+Stoney Trail and 114 Avenue SE,-113.9200031,50.9522109,-3.4,91,2,28,0.8,89.75, ,7
+Stoney Trail and 114 Avenue SE,-113.9200031,50.9522109,-3.4,91,2,28,0.8,89.75, ,7
+Stoney Trail and 114 Avenue SE,-113.9200031,50.9522109,-3.4,91,2,28,0.8,89.75, ,7
+Stoney Trail and 114 Avenue SE,-113.9209273,50.95490508,-4.2,90,3,26,3.2,89.8, ,7
+Stoney Trail and 114 Avenue SE,-113.9209273,50.95490508,-4.2,90,3,26,3.2,89.8, ,7
+Stoney Trail and 114 Avenue SE,-113.9209273,50.95490508,-4.2,90,3,26,3.2,89.8, ,7
+Stoney Trail and 114 Avenue SE,-113.9209273,50.95490508,-4.2,90,3,26,3.2,89.8, ,7
+Stoney Trail and 114 Avenue SE,-113.9209273,50.95490508,-4.2,90,3,26,3.2,89.8, ,7
+Northbound Stoney Trail approaching Glenmore Trail SE,-113.9199772,50.97336268,-3.6,86,30,21,2,87.87, ,7
+Northbound Stoney Trail approaching Glenmore Trail SE,-113.9199772,50.97336268,-3.6,86,30,21,2,87.87, ,7
+Northbound Stoney Trail approaching Glenmore Trail SE,-113.9198404,50.97409661,-6.8,91,23,8,19.3,88.3,Mostly Cloudy ,7
+Northbound Stoney Trail approaching Glenmore Trail SE,-113.9198404,50.97409661,-6.8,91,23,8,19.3,88.3,Mostly Cloudy ,7
+Westbound Mckenzie Towne Blvd approaching Deerfoot Trail SE,-113.9694462,50.91652685,-3.6,86,30,21,2,87.87, ,6
+Southbound Stoney Trail approaching Glenmore Trail SE,-113.9216591,50.98917415,-3.2,90,31,12,2,87.84, ,7
+Southbound Stoney Trail approaching Glenmore Trail SE,-113.9216591,50.98917415,-3.2,90,31,12,2,87.84, ,7
+Southbound Stoney Trail approaching Glenmore Trail SE,-113.9216591,50.98917415,-3.2,90,31,12,2,87.84, ,7
+Southbound Stoney Trail approaching Glenmore Trail SE,-113.9216591,50.98917415,-3.2,90,31,12,2,87.84, ,7
+Southbound Stoney Trail approaching Glenmore Trail SE,-113.9218538,50.98493162,0.6,47,14,13,48.3,89.02,Mainly Clear ,7
+Southbound Stoney Trail approaching Glenmore Trail SE,-113.9218538,50.98493162,0.6,47,14,13,48.3,89.02,Mainly Clear ,7
+Southbound Stoney Trail approaching Glenmore Trail SE,-113.9218538,50.98493162,0.6,47,14,13,48.3,89.02,Mainly Clear ,7
+Southbound Stoney Trail approaching Glenmore Trail SE,-113.9218538,50.98493162,0.6,47,14,13,48.3,89.02,Mainly Clear ,7
+Southbound Stoney Trail approaching Glenmore Trail SE,-113.9292702,50.97964026,2.9,30,14,19,64.4,88.39,Mostly Cloudy ,7
+Southbound Stoney Trail approaching Glenmore Trail SE,-113.9292702,50.97964026,2.9,30,14,19,64.4,88.39,Mostly Cloudy ,7
+Southbound Stoney Trail approaching Glenmore Trail SE,-113.9292702,50.97964026,2.9,30,14,19,64.4,88.39,Mostly Cloudy ,7
+Southbound Stoney Trail approaching Glenmore Trail SE,-113.9292702,50.97964026,2.9,30,14,19,64.4,88.39,Mostly Cloudy ,7
+Southbound Stoney Trail approaching Glenmore Trail SE,-113.9292702,50.97964026,-19.6,76,35,32,9.7,89.38, ,7
+Southbound Stoney Trail approaching Glenmore Trail SE,-113.9292702,50.97964026,-19.6,76,35,32,9.7,89.38, ,7
+Southbound Stoney Trail approaching Glenmore Trail SE,-113.9292702,50.97964026,-19.6,76,35,32,9.7,89.38, ,7
+Southbound Stoney Trail approaching Glenmore Trail SE,-113.9292702,50.97964026,-19.6,76,35,32,9.7,89.38, ,7
+Northbound Deerfoot Trail south of 212 Avenue SE,-113.9680419,50.85798078,-4.5,78,29,31,4.8,87.79, ,6
+52 Street and Mcivor Boulevard SE,-113.952166,50.91302549,-12.3,72,35,53,2.4,89.24,Snow Grains ,6
+52 Street and Mcivor Boulevard SE,-113.952166,50.91302549,-12.3,72,35,53,2.4,89.24,Snow Grains ,6
+52 Street and Mcivor Boulevard SE,-113.952166,50.91302549,-8.3,84,20,11,11.3,89.09, ,6
+52 Street and Mcivor Boulevard SE,-113.952166,50.91302549,-8.3,84,20,11,11.3,89.09, ,6
+130 Avenue and 50 Street SE,-113.9621899,50.93175419,-5.9,82,35,50,9.7,87.98, ,6
+130 Avenue and 50 Street SE,-113.9621899,50.93175419,-5.9,82,35,50,9.7,87.98, ,6
+130 Avenue and 50 Street SE,-113.9621899,50.93175419,-5.9,82,35,50,9.7,87.98, ,6
+130 Avenue and 50 Street SE,-113.9620368,50.93189322,-11.7,55,9,7,24.1,88.47,Mainly Clear ,6
+130 Avenue and 50 Street SE,-113.9620368,50.93189322,-11.7,55,9,7,24.1,88.47,Mainly Clear ,6
+130 Avenue and 50 Street SE,-113.9620368,50.93189322,-11.7,55,9,7,24.1,88.47,Mainly Clear ,6
+130 Avenue and 50 Street SE,-113.9625465,50.93199047,-21.8,74,17,13,14.5,89.44,Cloudy ,6
+130 Avenue and 50 Street SE,-113.9625465,50.93199047,-21.8,74,17,13,14.5,89.44,Cloudy ,6
+130 Avenue and 50 Street SE,-113.9625465,50.93199047,-21.8,74,17,13,14.5,89.44,Cloudy ,6
+Stoney Trail at 52 Street SE,-113.956687,50.90332324,-2.9,87,34,33,11.3,87.71, ,6
+Stoney Trail at 52 Street SE,-113.956687,50.90332324,-2.9,87,34,33,11.3,87.71, ,6
+Stoney Trail at 52 Street SE,-113.956687,50.90332324,-2.9,87,34,33,11.3,87.71, ,6
+Stoney Trail at 52 Street SE,-113.956687,50.90332324,-2.9,87,34,33,11.3,87.71, ,6
+Stoney Trail at 52 Street SE,-113.9560098,50.90350108,-2.9,87,34,33,11.3,87.71, ,6
+Stoney Trail at 52 Street SE,-113.9560098,50.90350108,-2.9,87,34,33,11.3,87.71, ,6
+Stoney Trail at 52 Street SE,-113.9560098,50.90350108,-2.9,87,34,33,11.3,87.71, ,6
+Stoney Trail at 52 Street SE,-113.9560098,50.90350108,-2.9,87,34,33,11.3,87.71, ,6
+Stoney Trail at 52 Street SE,-113.953452,50.90406448,-2.9,87,34,33,11.3,87.71, ,6
+Stoney Trail at 52 Street SE,-113.953452,50.90406448,-2.9,87,34,33,11.3,87.71, ,6
+Stoney Trail at 52 Street SE,-113.953452,50.90406448,-2.9,87,34,33,11.3,87.71, ,6
+Stoney Trail at 52 Street SE,-113.953452,50.90406448,-2.9,87,34,33,11.3,87.71, ,6
+Stoney Trail at 52 Street SE,-113.953452,50.90406448,-5.6,88,36,16,6.4,89.15, ,6
+Stoney Trail at 52 Street SE,-113.953452,50.90406448,-5.6,88,36,16,6.4,89.15, ,6
+Stoney Trail at 52 Street SE,-113.953452,50.90406448,-5.6,88,36,16,6.4,89.15, ,6
+Stoney Trail at 52 Street SE,-113.953452,50.90406448,-5.6,88,36,16,6.4,89.15, ,6
+Stoney Trail b/w Deerfoot Trail  and 52 Street SE,-113.9574943,50.90325387,-2.9,87,34,33,11.3,87.71, ,6
+Northbound Deerfoot Trail at Barlow Trail SE,-113.9834472,50.94546118,-0.8,97,0,1,4,87.66, ,8
+Northbound Deerfoot Trail at Barlow Trail SE,-114.0034269,51.01495911,-18.9,83,13,16,6.4,88.75,Ice Crystals ,8
+Northbound Deerfoot Trail at Barlow Trail SE,-114.0034269,51.01495911,5.8,37,34,25,32.2,88.47,Mainly Clear ,8
+Southbound Barlow Trail after 114 Avenue SE,-113.9815337,50.94841425,2.1,81,5,10,8.1,88.25, ,8
+Northbound 52 Street and Glenmore Trail SE,-113.9619371,50.97964243,-0.1,44,29,28,64.4,88.37,Mainly Clear ,8
+Northbound 52 Street and Glenmore Trail SE,-113.9619371,50.97964243,-0.1,44,29,28,64.4,88.37,Mainly Clear ,8
+Northbound 52 Street and Glenmore Trail SE,-113.9619371,50.97964243,-0.1,44,29,28,64.4,88.37,Mainly Clear ,8
+Northbound 52 Street and Glenmore Trail SE,-113.9619371,50.97964243,-4.1,76,28,4,64.4,88.62,Mostly Cloudy ,8
+Northbound 52 Street and Glenmore Trail SE,-113.9619371,50.97964243,-4.1,76,28,4,64.4,88.62,Mostly Cloudy ,8
+Northbound 52 Street and Glenmore Trail SE,-113.9619371,50.97964243,-4.1,76,28,4,64.4,88.62,Mostly Cloudy ,8
+Northbound 52 Street and Glenmore Trail SE,-113.9583262,50.98351159,5,45,5,8,40.2,88.51,Mainly Clear ,8
+Northbound 52 Street and Glenmore Trail SE,-113.9583262,50.98351159,5,45,5,8,40.2,88.51,Mainly Clear ,8
+Northbound 52 Street and Glenmore Trail SE,-113.9583262,50.98351159,5,45,5,8,40.2,88.51,Mainly Clear ,8
+Mount McKenzie Drive and Mount Douglas Ci SE,-113.9813262,50.92676016,-11.1,15,25,18,24.1,88.31,Mostly Cloudy ,6
+Eastbound 130 Avenue and 48 Street SE,-113.9658973,50.93210971,-1.7,28,27,28,64.4,89.33,Mainly Clear ,6
+50 Street and 130 Avenue SE,-113.9625465,50.93199047,-12.9,28,35,9,24.1,89.42,Clear ,6
+Southbound 52 Street and Mahogany Gate SE,-113.9446747,50.89952351,-13.3,20,27,13,56.3,89.39,Mostly Cloudy ,6
+Northbound Deerfoot Trail approaching Douglasdale Boulevard SE,-113.993556,50.94725701,-1.5,98,18,13,40.2,87.14,Mainly Clear ,8
+Northbound Deerfoot Trail approaching Douglasdale Boulevard SE,-113.993556,50.94725701,-1.5,98,18,13,40.2,87.14,Mainly Clear ,8
+Northbound Deerfoot Trail approaching Douglasdale Boulevard SE,-113.9951182,50.9475382,-0.2,97,19,4,2.4,89.21, ,8
+Northbound Deerfoot Trail approaching Douglasdale Boulevard SE,-113.9951182,50.9475382,-0.2,97,19,4,2.4,89.21, ,8
+52 Street and Stoney Trail SE,-113.9477368,50.90683897,-3.3,65,11,12,24.1,89.09,Cloudy ,6
+52 Street and Stoney Trail SE,-113.9477368,50.90683897,-3.3,65,11,12,24.1,89.09,Cloudy ,6
+52 Street and Stoney Trail SE,-113.9477368,50.90683897,-3.3,65,11,12,24.1,89.09,Cloudy ,6
+52 Street and Stoney Trail SE,-113.953452,50.90406448,-5,92,3,11,4.8,88.6, ,6
+52 Street and Stoney Trail SE,-113.953452,50.90406448,-5,92,3,11,4.8,88.6, ,6
+52 Street and Stoney Trail SE,-113.953452,50.90406448,-5,92,3,11,4.8,88.6, ,6
+52 Street and Stoney Trail SE,-113.953452,50.90406448,6.3,51,16,16,9.7,89.24,Smoke ,6
+52 Street and Stoney Trail SE,-113.953452,50.90406448,6.3,51,16,16,9.7,89.24,Smoke ,6
+52 Street and Stoney Trail SE,-113.953452,50.90406448,6.3,51,16,16,9.7,89.24,Smoke ,6
+Seton Boulevard and 45 Street SE,-113.9492108,50.88389111,0.1,97,18,4,2.4,89.22, ,6
+Southbound Deerfoot after 130 Avenue SE,-113.9756015,50.93082911,-5.6,58,18,10,64.4,88.81,Cloudy ,6
+Westbound Glenmore Trail and Stoney Trail SE,-113.9292702,50.97964026,-15.3,74,36,17,9.7,90.49,Snow Grains ,7
+Southbound Deerfoot Trail after Cranston Gate SE,-113.9682422,50.85878139,-11.6,87,4,8,1.6,89.66,Snow Grains ,6
+Eastbound Stoney Trail at 52 Street SE,-113.955745,50.90329232,-11.9,86,9,11,2,89.62,Snow Grains ,6
+Eastbound Stoney Trail at 52 Street SE,-113.955745,50.90329232,-11.9,86,9,11,2,89.62,Snow Grains ,6
+Eastbound Stoney Trail at 52 Street SE,-113.953452,50.90406448,-24.3,80,36,2,64.4,89.21,Clear ,6
+Eastbound Stoney Trail at 52 Street SE,-113.953452,50.90406448,-24.3,80,36,2,64.4,89.21,Clear ,6
+Seton Boulevard and Seton Wy SE,-113.9574933,50.88250547,-11.7,83,9,13,0.4,89.56,"Snow Grains,Heavy Snow Showers ",6
+Seton Boulevard and Seton Wy SE,-113.9574933,50.88250547,-11.7,83,9,13,0.4,89.56,"Snow Grains,Heavy Snow Showers ",6
+Seton Boulevard and Seton Wy SE,-113.9574933,50.88250547,-1.8,24,28,17,64.4,89.1,Clear ,6
+Seton Boulevard and Seton Wy SE,-113.9574933,50.88250547,-1.8,24,28,17,64.4,89.1,Clear ,6
+Southbound 52 Street at 106 Avenue SE,-113.9589582,50.95784607,-12.2,86,15,12,4,89.97, ,8
+Southbound 52 Street at 106 Avenue SE,-113.9589582,50.95784607,-12.2,86,15,12,4,89.97, ,8
+Southbound 52 Street at 106 Avenue SE,-113.9585746,50.9578365,-5.6,76,19,9,24.1,89.03,Mostly Cloudy ,8
+Southbound 52 Street at 106 Avenue SE,-113.9585746,50.9578365,-5.6,76,19,9,24.1,89.03,Mostly Cloudy ,8
+Westbound 114 Avenue after 52 Street SE,-113.9586708,50.95059537,-10.8,85,8,12,4.8,90.32,Snow Showers ,8
+Seton Boulevard and Auburn Bay Gate SE,-113.9573084,50.88241469,-11,79,1,16,9.7,89.91,Mostly Cloudy ,6
+Seton Boulevard and Auburn Bay Gate SE,-113.9573084,50.88241469,-11,79,1,16,9.7,89.91,Mostly Cloudy ,6
+Seton Boulevard and Auburn Bay Gate SE,-113.9573084,50.88241469,-11,79,1,16,9.7,89.91,Mostly Cloudy ,6
+Seton Boulevard and Auburn Bay Gate SE,-113.9573084,50.88241469,-11,79,1,16,9.7,89.91,Mostly Cloudy ,6
+Seton Boulevard and Auburn Bay Gate SE,-113.9578345,50.88242603,-8.1,35,27,21,24.1,88.05,Mainly Clear ,6
+Seton Boulevard and Auburn Bay Gate SE,-113.9578345,50.88242603,-8.1,35,27,21,24.1,88.05,Mainly Clear ,6
+Seton Boulevard and Auburn Bay Gate SE,-113.9578345,50.88242603,-8.1,35,27,21,24.1,88.05,Mainly Clear ,6
+Seton Boulevard and Auburn Bay Gate SE,-113.9578345,50.88242603,-8.1,35,27,21,24.1,88.05,Mainly Clear ,6
+Seton Boulevard and Auburn Bay Gate SE,-113.9573423,50.8824254,9.5,37,12,19,64.4,89.16,26,6
+Seton Boulevard and Auburn Bay Gate SE,-113.9573423,50.8824254,9.5,37,12,19,64.4,89.16,26,6
+Seton Boulevard and Auburn Bay Gate SE,-113.9573423,50.8824254,9.5,37,12,19,64.4,89.16,26,6
+Seton Boulevard and Auburn Bay Gate SE,-113.9573423,50.8824254,9.5,37,12,19,64.4,89.16,26,6
+Seton Boulevard and Auburn Bay Gate SE,-113.9573182,50.88238737,-8.5,91,14,16,4,89.26,"Snow Grains, ",6
+Seton Boulevard and Auburn Bay Gate SE,-113.9573182,50.88238737,-8.5,91,14,16,4,89.26,"Snow Grains, ",6
+Seton Boulevard and Auburn Bay Gate SE,-113.9573182,50.88238737,-8.5,91,14,16,4,89.26,"Snow Grains, ",6
+Seton Boulevard and Auburn Bay Gate SE,-113.9573182,50.88238737,-8.5,91,14,16,4,89.26,"Snow Grains, ",6
+Eastbound 114 Avenue and Stoney Trail SE,-113.9296094,50.94922121,-6.3,83,1,33,6.4,89.38,Snow Showers ,7
+Auburn Bay Drive and Auburn Glen Drive SE,-113.9525664,50.89823243,-6.2,84,36,30,2.8,89.32, ,6
+Stoney Trail and Deerfoot Trail SE,-113.9683514,50.90105981,-1.7,95,35,8,4,88.9, ,6
+Stoney Trail and Deerfoot Trail SE,-113.9683514,50.90105981,-1.7,95,35,8,4,88.9, ,6
+Stoney Trail and Deerfoot Trail SE,-113.9683514,50.90105981,-1.7,95,35,8,4,88.9, ,6
+Stoney Trail and Deerfoot Trail SE,-113.9683514,50.90105981,-1.7,95,35,8,4,88.9, ,6
+Stoney Trail and Deerfoot Trail SE,-113.9672589,50.90126934,-1.7,95,35,8,4,88.9, ,6
+Stoney Trail and Deerfoot Trail SE,-113.9672589,50.90126934,-1.7,95,35,8,4,88.9, ,6
+Stoney Trail and Deerfoot Trail SE,-113.9672589,50.90126934,-1.7,95,35,8,4,88.9, ,6
+Stoney Trail and Deerfoot Trail SE,-113.9672589,50.90126934,-1.7,95,35,8,4,88.9, ,6
+Stoney Trail and Deerfoot Trail SE,-113.9727481,50.90265223,16.7,75,33,11,24.1,89.75,26,6
+Stoney Trail and Deerfoot Trail SE,-113.9727481,50.90265223,16.7,75,33,11,24.1,89.75,26,6
+Stoney Trail and Deerfoot Trail SE,-113.9727481,50.90265223,16.7,75,33,11,24.1,89.75,26,6
+Stoney Trail and Deerfoot Trail SE,-113.9727481,50.90265223,16.7,75,33,11,24.1,89.75,26,6
+Stoney Trail and Deerfoot Trail SE,-114.0625085,51.06700065,-5.9,53,22,19,24.1,89.17,Mostly Cloudy ,6
+Stoney Trail and Deerfoot Trail SE,-114.0625085,51.06700065,-5.9,53,22,19,24.1,89.17,Mostly Cloudy ,6
+Stoney Trail and Deerfoot Trail SE,-114.0625085,51.06700065,-5.9,53,22,19,24.1,89.17,Mostly Cloudy ,6
+Stoney Trail and Deerfoot Trail SE,-114.0625085,51.06700065,-5.9,53,22,19,24.1,89.17,Mostly Cloudy ,6
+Stoney Trail and Deerfoot Trail SE,-113.9763034,50.90061094,-5.2,90,9,6,9.7,89.92, ,6
+Stoney Trail and Deerfoot Trail SE,-113.9763034,50.90061094,-5.2,90,9,6,9.7,89.92, ,6
+Stoney Trail and Deerfoot Trail SE,-113.9763034,50.90061094,-5.2,90,9,6,9.7,89.92, ,6
+Stoney Trail and Deerfoot Trail SE,-113.9763034,50.90061094,-5.2,90,9,6,9.7,89.92, ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,-4,66,16,21,64.4,88.19,Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,-4,66,16,21,64.4,88.19,Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,-4,66,16,21,64.4,88.19,Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,-4,66,16,21,64.4,88.19,Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,-4,66,16,21,64.4,88.19,Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,-4,66,16,21,64.4,88.19,Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,-4,66,16,21,64.4,88.19,Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,-4,66,16,21,64.4,88.19,Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,-4,66,16,21,64.4,88.19,Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,-4,66,16,21,64.4,88.19,Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,-4,66,16,21,64.4,88.19,Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,-4,66,16,21,64.4,88.19,Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755122,50.90650702,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755122,50.90650702,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755122,50.90650702,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755122,50.90650702,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755122,50.90650702,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755122,50.90650702,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755122,50.90650702,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755122,50.90650702,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755122,50.90650702,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755122,50.90650702,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755122,50.90650702,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755122,50.90650702,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754957,50.90648184,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754957,50.90648184,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754957,50.90648184,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754957,50.90648184,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754957,50.90648184,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754957,50.90648184,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754957,50.90648184,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754957,50.90648184,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754957,50.90648184,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754957,50.90648184,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754957,50.90648184,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754957,50.90648184,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9757634,50.90619691,11.7,44,6,13,24.1,88.64,27,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9757634,50.90619691,11.7,44,6,13,24.1,88.64,27,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9757634,50.90619691,11.7,44,6,13,24.1,88.64,27,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9757634,50.90619691,11.7,44,6,13,24.1,88.64,27,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9757634,50.90619691,11.7,44,6,13,24.1,88.64,27,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9757634,50.90619691,11.7,44,6,13,24.1,88.64,27,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9757634,50.90619691,11.7,44,6,13,24.1,88.64,27,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9757634,50.90619691,11.7,44,6,13,24.1,88.64,27,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9757634,50.90619691,11.7,44,6,13,24.1,88.64,27,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9757634,50.90619691,11.7,44,6,13,24.1,88.64,27,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9757634,50.90619691,11.7,44,6,13,24.1,88.64,27,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9757634,50.90619691,11.7,44,6,13,24.1,88.64,27,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754744,50.90609185,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754744,50.90609185,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754744,50.90609185,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754744,50.90609185,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754744,50.90609185,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754744,50.90609185,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754744,50.90609185,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754744,50.90609185,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754744,50.90609185,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754744,50.90609185,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754744,50.90609185,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9754744,50.90609185,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755133,50.90603046,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755133,50.90603046,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755133,50.90603046,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755133,50.90603046,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755133,50.90603046,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755133,50.90603046,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755133,50.90603046,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755133,50.90603046,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755133,50.90603046,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755133,50.90603046,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755133,50.90603046,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755133,50.90603046,15.4,58,15,29,32.2,89.4,28,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,2,94,30,27,6.4,87.3,"Moderate Rain, ",6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,2,94,30,27,6.4,87.3,"Moderate Rain, ",6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,2,94,30,27,6.4,87.3,"Moderate Rain, ",6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,2,94,30,27,6.4,87.3,"Moderate Rain, ",6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,2,94,30,27,6.4,87.3,"Moderate Rain, ",6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,2,94,30,27,6.4,87.3,"Moderate Rain, ",6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,2,94,30,27,6.4,87.3,"Moderate Rain, ",6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,2,94,30,27,6.4,87.3,"Moderate Rain, ",6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,2,94,30,27,6.4,87.3,"Moderate Rain, ",6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,2,94,30,27,6.4,87.3,"Moderate Rain, ",6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,2,94,30,27,6.4,87.3,"Moderate Rain, ",6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832095,2,94,30,27,6.4,87.3,"Moderate Rain, ",6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.975553,50.90216254,-11,39,29,3,32.2,88.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.975553,50.90216254,-11,39,29,3,32.2,88.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.975553,50.90216254,-11,39,29,3,32.2,88.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.975553,50.90216254,-11,39,29,3,32.2,88.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.975553,50.90216254,-11,39,29,3,32.2,88.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.975553,50.90216254,-11,39,29,3,32.2,88.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.975553,50.90216254,-11,39,29,3,32.2,88.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.975553,50.90216254,-11,39,29,3,32.2,88.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.975553,50.90216254,-11,39,29,3,32.2,88.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.975553,50.90216254,-11,39,29,3,32.2,88.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.975553,50.90216254,-11,39,29,3,32.2,88.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.975553,50.90216254,-11,39,29,3,32.2,88.08,Mostly Cloudy ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755672,50.91349868,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755672,50.91349868,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755672,50.91349868,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755672,50.91349868,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755672,50.91349868,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755672,50.91349868,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755672,50.91349868,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755672,50.91349868,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755672,50.91349868,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755672,50.91349868,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755672,50.91349868,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755672,50.91349868,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755389,50.91404293,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755389,50.91404293,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755389,50.91404293,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755389,50.91404293,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755389,50.91404293,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755389,50.91404293,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755389,50.91404293,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755389,50.91404293,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755389,50.91404293,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755389,50.91404293,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755389,50.91404293,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755389,50.91404293,-6.7,28,27,37,32.2,87.13,Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755915,50.90678959,-7.4,36,28,22,64.4,87.57,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755915,50.90678959,-7.4,36,28,22,64.4,87.57,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755915,50.90678959,-7.4,36,28,22,64.4,87.57,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755915,50.90678959,-7.4,36,28,22,64.4,87.57,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755915,50.90678959,-7.4,36,28,22,64.4,87.57,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755915,50.90678959,-7.4,36,28,22,64.4,87.57,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755915,50.90678959,-7.4,36,28,22,64.4,87.57,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755915,50.90678959,-7.4,36,28,22,64.4,87.57,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755915,50.90678959,-7.4,36,28,22,64.4,87.57,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755915,50.90678959,-7.4,36,28,22,64.4,87.57,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755915,50.90678959,-7.4,36,28,22,64.4,87.57,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755915,50.90678959,-7.4,36,28,22,64.4,87.57,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755461,50.90898492,-2,43,15,15,24.1,89.41,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755461,50.90898492,-2,43,15,15,24.1,89.41,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755461,50.90898492,-2,43,15,15,24.1,89.41,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755461,50.90898492,-2,43,15,15,24.1,89.41,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755461,50.90898492,-2,43,15,15,24.1,89.41,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755461,50.90898492,-2,43,15,15,24.1,89.41,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755461,50.90898492,-2,43,15,15,24.1,89.41,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755461,50.90898492,-2,43,15,15,24.1,89.41,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755461,50.90898492,-2,43,15,15,24.1,89.41,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755461,50.90898492,-2,43,15,15,24.1,89.41,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755461,50.90898492,-2,43,15,15,24.1,89.41,Mainly Clear ,6
+Southbound Deerfoot Trail approaching Stoney Trail SE,-113.9755461,50.90898492,-2,43,15,15,24.1,89.41,Mainly Clear ,6
+Northbound 52 Street and 90 Avenue SE,-113.9592036,50.9723512,0.6,92,34,13,8.1,87.89, ,8
+Northbound 52 Street and 90 Avenue SE,-113.9592036,50.9723512,0.6,92,34,13,8.1,87.89, ,8
+Northbound 52 Street and 90 Avenue SE,-113.9592036,50.9723512,0.6,92,34,13,8.1,87.89, ,8
+Northbound 52 Street and 90 Avenue SE,-113.9582545,50.9707308,-6.3,88,36,19,0.8,88.87, ,8
+Northbound 52 Street and 90 Avenue SE,-113.9582545,50.9707308,-6.3,88,36,19,0.8,88.87, ,8
+Northbound 52 Street and 90 Avenue SE,-113.9582545,50.9707308,-6.3,88,36,19,0.8,88.87, ,8
+Northbound 52 Street and 90 Avenue SE,-113.9592036,50.9723512,-7.1,68,18,3,64.4,89.85,Mainly Clear ,8
+Northbound 52 Street and 90 Avenue SE,-113.9592036,50.9723512,-7.1,68,18,3,64.4,89.85,Mainly Clear ,8
+Northbound 52 Street and 90 Avenue SE,-113.9592036,50.9723512,-7.1,68,18,3,64.4,89.85,Mainly Clear ,8
+Northbound Ogden Road at 76 Avenue SE,-113.9987836,50.98504693,2.6,52,20,5,16.1,88.68,Cloudy ,8
+Northbound Deerfoot Trail approaching Barlow Trail SE,-113.9787947,50.94289597,5.8,84,23,8,9.7,89.15, ,8
+Northbound Deerfoot Trail approaching Barlow Trail SE,-113.9787947,50.94289597,5.8,84,23,8,9.7,89.15, ,8
+Northbound Deerfoot Trail approaching Barlow Trail SE,-113.9833884,50.99810086,-10.3,90,17,5,1.6,88.49, ,8
+Northbound Deerfoot Trail approaching Barlow Trail SE,-113.9833884,50.99810086,-10.3,90,17,5,1.6,88.49, ,8
+Northbound Deerfoot Trail approaching Barlow Trail SE,-113.9770254,50.94109811,-3.8,66,31,18,32.2,89.06,Mostly Cloudy ,8
+Northbound Deerfoot Trail approaching Barlow Trail SE,-113.9770254,50.94109811,-3.8,66,31,18,32.2,89.06,Mostly Cloudy ,8
+Northbound Stoney Trail approaching 114 Avenue SE,-113.9198594,50.94066833,-0.2,69,20,8,24.1,89.89,Mostly Cloudy ,7
+Northbound Stoney Trail approaching 114 Avenue SE,-113.9198594,50.94066833,-0.2,69,20,8,24.1,89.89,Mostly Cloudy ,7
+Northbound Stoney Trail approaching 114 Avenue SE,-113.9198594,50.94066833,-0.2,69,20,8,24.1,89.89,Mostly Cloudy ,7
+Northbound Stoney Trail approaching 114 Avenue SE,-113.9199494,50.94021044,-2.1,92,6,14,2,88.9, ,7
+Northbound Stoney Trail approaching 114 Avenue SE,-113.9199494,50.94021044,-2.1,92,6,14,2,88.9, ,7
+Northbound Stoney Trail approaching 114 Avenue SE,-113.9199494,50.94021044,-2.1,92,6,14,2,88.9, ,7
+Northbound Stoney Trail approaching 114 Avenue SE,-113.9201459,50.94589345,-7.1,67,16,24,24.1,89.49,Mostly Cloudy ,7
+Northbound Stoney Trail approaching 114 Avenue SE,-113.9201459,50.94589345,-7.1,67,16,24,24.1,89.49,Mostly Cloudy ,7
+Northbound Stoney Trail approaching 114 Avenue SE,-113.9201459,50.94589345,-7.1,67,16,24,24.1,89.49,Mostly Cloudy ,7
+Northbound Stoney Trail north of 114 Avenue SE,-113.9201576,50.95009551,-0.2,69,20,8,24.1,89.89,Mostly Cloudy ,7
+130 Avenue at 50 Street SE,-113.9625465,50.93199047,-0.3,46,34,16,16.1,90.17, ,6
+44 Street and 72 Avenue SE,-113.970126,50.98951169,3,60,20,8,48.3,88.73,Cloudy ,8
+Southbound Deerfoot Trail and Barlow Trail SE,-113.9814275,50.94312449,8.4,84,19,4,8.1,88.28,Smoke ,8
+Northbound 52 Street and 130 Avenue SE,-113.9581461,50.93176036,6.3,83,0,1,8.1,89.73, ,6
+Eastbound 114 Avenue at Barlow Trail SE,-113.9821108,50.95052948,5.3,69,34,16,8.1,89.92,Smoke ,8
+Southbound Barlow Trail approaching Deerfoot Trail SE,-113.9815876,50.94833236,5.2,65,36,1,64.4,89.54,Clear ,8
+Mahogany Terrace and Mahogany Gate SE,-113.9403934,50.89948113,4.2,29,28,32,48.3,89.08,Mostly Cloudy ,6
+Westbound 130 Avenue and 48 Street SE,-113.9651386,50.93198741,4.8,75,32,7,64.4,89.17,Mostly Cloudy ,6
+Northbound Stoney Trail north of Glenmore Trail SE,-113.9204144,50.98156675,1.5,17,28,19,9.7,88.21,27,7
+Northbound Stoney Trail north of Glenmore Trail SE,-113.9209794,50.9929433,6.8,86,35,19,16.1,88.83, ,7
+New Brighton Wy and Mcivor Boulevard SE,-113.9431303,50.91405106,9.9,40,13,12,40.2,88.6,26,6
+Westbound 130 Avenue approaching Deerfoot Trail SE,-113.9788897,50.93198252,2.4,15,28,17,48.3,88.86,30,6
+Westbound 130 Avenue approaching Deerfoot Trail SE,-113.9788897,50.93198252,2.4,15,28,17,48.3,88.86,30,6
+Westbound 130 Avenue approaching Deerfoot Trail SE,-113.9788897,50.93198252,2.4,15,28,17,48.3,88.86,30,6
+Westbound 130 Avenue approaching Deerfoot Trail SE,-113.9788897,50.93198252,8.3,32,18,14,64.4,89.19,27,6
+Westbound 130 Avenue approaching Deerfoot Trail SE,-113.9788897,50.93198252,8.3,32,18,14,64.4,89.19,27,6
+Westbound 130 Avenue approaching Deerfoot Trail SE,-113.9788897,50.93198252,8.3,32,18,14,64.4,89.19,27,6
+Westbound 130 Avenue approaching Deerfoot Trail SE,-113.9717328,50.9320443,0.2,93,23,5,9.7,88.07,"Rain Showers, ",6
+Westbound 130 Avenue approaching Deerfoot Trail SE,-113.9717328,50.9320443,0.2,93,23,5,9.7,88.07,"Rain Showers, ",6
+Westbound 130 Avenue approaching Deerfoot Trail SE,-113.9717328,50.9320443,0.2,93,23,5,9.7,88.07,"Rain Showers, ",6
+Deerfoot Trail and Douglasdale Boulevard SE,-114.0002899,50.94792208,8.7,32,8,21,64.4,89.2,27,8
+Deerfoot Trail and Douglasdale Boulevard SE,-113.9898648,50.94685463,1.1,92,14,21,11.3,89.15, ,8
+Southbound Deerfoot Trail at Douglasdale Boulevard SE,-113.9977437,50.94746582,8.7,32,8,21,64.4,89.2,27,8
+Westbound 130 Avenue and Deerfoot Trail SE,-113.9788897,50.93198252,6,66,18,12,40.2,88.9,Mainly Clear ,6
+Barlow Trail and 114 Avenue SE,-113.9821108,50.95052948,0.6,19,28,28,64.4,88.55,Mainly Clear ,8
+Barlow Trail and 114 Avenue SE,-113.9821108,50.95052948,0.6,19,28,28,64.4,88.55,Mainly Clear ,8
+Barlow Trail and 114 Avenue SE,-113.9814293,50.95046465,-3.9,67,20,12,64.4,88.48,Mostly Cloudy ,8
+Barlow Trail and 114 Avenue SE,-113.9814293,50.95046465,-3.9,67,20,12,64.4,88.48,Mostly Cloudy ,8
+Eastbound Glenmore Trail and Barlow Trail SE,-113.981734,50.97869482,-1.8,24,28,17,64.4,89.1,Clear ,8
+McKenzie Meadows Drive and McKenzie Lake Boulevard SE,-113.9922576,50.90028504,4,57,34,22,11.3,89.04,Rain Showers ,6
+52 Street and 130 Avenue SE,-113.958101,50.92927221,7.3,82,33,20,22.5,88.45,Rain Showers ,6
+52 Street and 130 Avenue SE,-113.958101,50.92927221,7.3,82,33,20,22.5,88.45,Rain Showers ,6
+52 Street and 130 Avenue SE,-113.958101,50.92927221,7.3,82,33,20,22.5,88.45,Rain Showers ,6
+52 Street and 130 Avenue SE,-113.9588005,50.93156776,7.3,82,33,20,22.5,88.45,Rain Showers ,6
+52 Street and 130 Avenue SE,-113.9588005,50.93156776,7.3,82,33,20,22.5,88.45,Rain Showers ,6
+52 Street and 130 Avenue SE,-113.9588005,50.93156776,7.3,82,33,20,22.5,88.45,Rain Showers ,6
+52 Street and 130 Avenue SE,-113.9588005,50.93156776,11,41,17,15,32.2,88.97,27,6
+52 Street and 130 Avenue SE,-113.9588005,50.93156776,11,41,17,15,32.2,88.97,27,6
+52 Street and 130 Avenue SE,-113.9588005,50.93156776,11,41,17,15,32.2,88.97,27,6
+Northbound Deerfoot Trail after 130 Avenue SE,-113.9759813,50.93928122,7.9,89,33,20,8.1,88.39,"Rain Showers, ",8
+Northbound Deerfoot Trail after 130 Avenue SE,-113.9759813,50.93928122,7.9,89,33,20,8.1,88.39,"Rain Showers, ",8
+Northbound Deerfoot Trail after 130 Avenue SE,-113.9754376,50.93763982,-7.1,39,27,28,64.4,88.1,Mostly Cloudy ,8
+Northbound Deerfoot Trail after 130 Avenue SE,-113.9754376,50.93763982,-7.1,39,27,28,64.4,88.1,Mostly Cloudy ,8
+Glenmore Trail at Barlow Trail SE,-113.9816728,50.97868618,8.8,28,15,27,48.3,88.56,30,8
+Glenmore Trail at Barlow Trail SE,-113.9816728,50.97868618,8.8,28,15,27,48.3,88.56,30,8
+Glenmore Trail at Barlow Trail SE,-113.9816728,50.97868618,8.8,28,15,27,48.3,88.56,30,8
+Glenmore Trail at Barlow Trail SE,-113.9816728,50.97868618,8.8,28,15,27,48.3,88.56,30,8
+Glenmore Trail at Barlow Trail SE,-113.9816728,50.97868618,8.8,28,15,27,48.3,88.56,30,8
+Glenmore Trail at Barlow Trail SE,-113.9814573,50.97870008,8.8,28,15,27,48.3,88.56,30,8
+Glenmore Trail at Barlow Trail SE,-113.9814573,50.97870008,8.8,28,15,27,48.3,88.56,30,8
+Glenmore Trail at Barlow Trail SE,-113.9814573,50.97870008,8.8,28,15,27,48.3,88.56,30,8
+Glenmore Trail at Barlow Trail SE,-113.9814573,50.97870008,8.8,28,15,27,48.3,88.56,30,8
+Glenmore Trail at Barlow Trail SE,-113.9814573,50.97870008,8.8,28,15,27,48.3,88.56,30,8
+Glenmore Trail at Barlow Trail SE,-113.982037,50.97956554,5.2,61,1,9,24.1,89,Cloudy ,8
+Glenmore Trail at Barlow Trail SE,-113.982037,50.97956554,5.2,61,1,9,24.1,89,Cloudy ,8
+Glenmore Trail at Barlow Trail SE,-113.982037,50.97956554,5.2,61,1,9,24.1,89,Cloudy ,8
+Glenmore Trail at Barlow Trail SE,-113.982037,50.97956554,5.2,61,1,9,24.1,89,Cloudy ,8
+Glenmore Trail at Barlow Trail SE,-113.982037,50.97956554,5.2,61,1,9,24.1,89,Cloudy ,8
+Glenmore Trail at Barlow Trail SE,-113.9843501,50.9795238,-20.9,79,3,17,0.6,89.64,Moderate Snow ,8
+Glenmore Trail at Barlow Trail SE,-113.9843501,50.9795238,-20.9,79,3,17,0.6,89.64,Moderate Snow ,8
+Glenmore Trail at Barlow Trail SE,-113.9843501,50.9795238,-20.9,79,3,17,0.6,89.64,Moderate Snow ,8
+Glenmore Trail at Barlow Trail SE,-113.9843501,50.9795238,-20.9,79,3,17,0.6,89.64,Moderate Snow ,8
+Glenmore Trail at Barlow Trail SE,-113.9843501,50.9795238,-20.9,79,3,17,0.6,89.64,Moderate Snow ,8
+Glenmore Trail at Barlow Trail SE,-113.9843501,50.9795238,-25.8,71,6,14,6.4,89, ,8
+Glenmore Trail at Barlow Trail SE,-113.9843501,50.9795238,-25.8,71,6,14,6.4,89, ,8
+Glenmore Trail at Barlow Trail SE,-113.9843501,50.9795238,-25.8,71,6,14,6.4,89, ,8
+Glenmore Trail at Barlow Trail SE,-113.9843501,50.9795238,-25.8,71,6,14,6.4,89, ,8
+Glenmore Trail at Barlow Trail SE,-113.9843501,50.9795238,-25.8,71,6,14,6.4,89, ,8
+Southbound 52 Street after 114 Avenue SE,-113.9584167,50.94963929,8.8,28,15,27,48.3,88.56,30,8
+Stoney Trail and Glenmore Trail SE,-113.9198415,50.97329561,12.8,72,13,13,24.1,89.54,Mainly Clear ,7
+Stoney Trail and Glenmore Trail SE,-113.9198415,50.97329561,12.8,72,13,13,24.1,89.54,Mainly Clear ,7
+Stoney Trail and Glenmore Trail SE,-113.9198415,50.97329561,12.8,72,13,13,24.1,89.54,Mainly Clear ,7
+Stoney Trail and Glenmore Trail SE,-113.9198415,50.97329561,12.8,72,13,13,24.1,89.54,Mainly Clear ,7
+Stoney Trail and Glenmore Trail SE,-113.9205453,50.97955905,-11.2,85,35,27,24.1,87.34,Mostly Cloudy ,7
+Stoney Trail and Glenmore Trail SE,-113.9205453,50.97955905,-11.2,85,35,27,24.1,87.34,Mostly Cloudy ,7
+Stoney Trail and Glenmore Trail SE,-113.9205453,50.97955905,-11.2,85,35,27,24.1,87.34,Mostly Cloudy ,7
+Stoney Trail and Glenmore Trail SE,-113.9205453,50.97955905,-11.2,85,35,27,24.1,87.34,Mostly Cloudy ,7
+Stoney Trail and Glenmore Trail SE,-113.9215966,50.98712991,-4.8,87,36,17,8.1,89.92, ,7
+Stoney Trail and Glenmore Trail SE,-113.9215966,50.98712991,-4.8,87,36,17,8.1,89.92, ,7
+Stoney Trail and Glenmore Trail SE,-113.9215966,50.98712991,-4.8,87,36,17,8.1,89.92, ,7
+Stoney Trail and Glenmore Trail SE,-113.9215966,50.98712991,-4.8,87,36,17,8.1,89.92, ,7
+Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-5.9,86,33,18,2.8,88.77, ,7
+Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-5.9,86,33,18,2.8,88.77, ,7
+Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-5.9,86,33,18,2.8,88.77, ,7
+Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-5.9,86,33,18,2.8,88.77, ,7
+McKenzie Towne Drive and 52 Street SE,-113.9519614,50.91278196,18.7,60,9,13,24.1,89,34,6
+Eastbound Glenmore Trail at Stoney Trail SE,-113.9136704,50.98019388,15,87,15,3,14.5,88.29,Cloudy ,7
+Eastbound Glenmore Trail at Stoney Trail SE,-113.9136704,50.98019388,15,87,15,3,14.5,88.29,Cloudy ,7
+Eastbound Glenmore Trail at Stoney Trail SE,-113.9136704,50.98019388,15,87,15,3,14.5,88.29,Cloudy ,7
+Eastbound Glenmore Trail at Stoney Trail SE,-113.9295522,50.97946818,-2.7,82,34,39,19.3,88.18,Cloudy ,7
+Eastbound Glenmore Trail at Stoney Trail SE,-113.9295522,50.97946818,-2.7,82,34,39,19.3,88.18,Cloudy ,7
+Eastbound Glenmore Trail at Stoney Trail SE,-113.9295522,50.97946818,-2.7,82,34,39,19.3,88.18,Cloudy ,7
+Eastbound Glenmore Trail at Stoney Trail SE,-113.9292702,50.97964026,-6.8,35,34,14,32.2,89.15,Mostly Cloudy ,7
+Eastbound Glenmore Trail at Stoney Trail SE,-113.9292702,50.97964026,-6.8,35,34,14,32.2,89.15,Mostly Cloudy ,7
+Eastbound Glenmore Trail at Stoney Trail SE,-113.9292702,50.97964026,-6.8,35,34,14,32.2,89.15,Mostly Cloudy ,7
+Mt Apex Gr and Mt Mckenzie Drive SE,-113.9805032,50.92502362,16,65,7,14,24.1,88.3,27,6
+McKenzie Towne Boulevard  &amp; Deerfoot Trail SE,-113.9755569,50.91656533,15.8,67,7,18,48.3,88.37,27,6
+Northbound Stoney Trail and 114 Avenue SE,-113.9201441,50.94960178,12.3,58,16,7,48.3,88.7,Cloudy ,7
+Southbound Deerfoot Trail and 24 Street SE,-113.990084,50.94649991,5.3,35,6,7,64.4,89.14,Clear ,8
+Southbound Deerfoot Trail and 24 Street SE,-114.0062497,50.94822945,-19.7,74,34,13,4.8,88.78, ,8
+Southbound Deerfoot Trail and 24 Street SE,-114.0110698,50.95081441,3,21,26,22,32.2,88.52,26,8
+Southbound Deerfoot Trail and 24 Street SE,-114.0110698,50.95081441,-10.9,86,36,13,2,88.68, ,8
+Northbound Barlow Trail and Glenmore Trail SE,-113.9843501,50.9795238,0.2,30,28,16,48.3,88.75,Mostly Cloudy ,8
+Northbound Barlow Trail and Glenmore Trail SE,-113.9843501,50.9795238,0.2,30,28,16,48.3,88.75,Mostly Cloudy ,8
+Northbound Barlow Trail and Glenmore Trail SE,-113.9843501,50.9795238,-10.7,90,36,22,2.4,86.81,Ice Crystals ,8
+Northbound Barlow Trail and Glenmore Trail SE,-113.9843501,50.9795238,-10.7,90,36,22,2.4,86.81,Ice Crystals ,8
+Eastbound Glenmore Trail and Barlow Trail  SE,-113.9799788,50.97974823,3.6,40,1,15,64.4,88.71,Mostly Cloudy ,8
+Brightondale Pr and New Brighton Drive SE,-113.9542783,50.91736587,10.5,56,15,22,48.3,89.2,Clear ,6
+104 Street and Stoney Trail SE,-113.8829145,50.90713258,8.6,88,35,8,32.2,88.48,Mostly Cloudy ,7
+Barlow Trail and 72 Avenue SE,-113.9817162,50.98950895,7.4,60,20,13,64.4,87.55,Mostly Cloudy ,8
+Barlow Trail and 72 Avenue SE,-113.9817162,50.98950895,7.4,60,20,13,64.4,87.55,Mostly Cloudy ,8
+Barlow Trail and 72 Avenue SE,-113.9819836,50.98914086,7,76,34,18,8.1,88.83,Smoke ,8
+Barlow Trail and 72 Avenue SE,-113.9819836,50.98914086,7,76,34,18,8.1,88.83,Smoke ,8
+McIvor Boulevard and Copperstone Gate SE,-113.9377588,50.91436701,11.3,66,4,21,40.2,88.56,Mostly Cloudy ,6
+76 Avenue and 48 Street SE,-113.9642227,50.98509863,11.6,48,17,21,56.3,88.92,25,8
+76 Avenue and 48 Street SE,-113.9642227,50.98509863,11.6,48,17,21,56.3,88.92,25,8
+76 Avenue and 48 Street SE,-113.9642227,50.98509863,-5.2,90,1,35,2.8,88.37, ,8
+76 Avenue and 48 Street SE,-113.9642227,50.98509863,-5.2,90,1,35,2.8,88.37, ,8
+Eastbound Mckenzie Towne Boulevard and Deerfoot Trail SE,-113.9755569,50.91656533,12.3,88,12,11,24.1,88.91,Thunderstorms ,6
+Eastbound Mckenzie Towne Boulevard and Deerfoot Trail SE,-113.9755569,50.91656533,12.3,88,12,11,24.1,88.91,Thunderstorms ,6
+Eastbound Mckenzie Towne Boulevard and Deerfoot Trail SE,-113.967409,50.91640404,-12.2,84,2,17,17.7,88.11,Mostly Cloudy ,6
+Eastbound Mckenzie Towne Boulevard and Deerfoot Trail SE,-113.967409,50.91640404,-12.2,84,2,17,17.7,88.11,Mostly Cloudy ,6
+Southbound Deerfoot Trail and Mckenzie Towne Boulevard SE,-113.9756699,50.91922143,12.3,88,12,11,24.1,88.91,Thunderstorms ,6
+Southbound Deerfoot Trail and Mckenzie Towne Boulevard SE,-113.9756699,50.91922143,12.3,88,12,11,24.1,88.91,Thunderstorms ,6
+Southbound Deerfoot Trail and Mckenzie Towne Boulevard SE,-113.9755569,50.91656533,-21.8,78,6,4,16.1,90.11,Mostly Cloudy ,6
+Southbound Deerfoot Trail and Mckenzie Towne Boulevard SE,-113.9755569,50.91656533,-21.8,78,6,4,16.1,90.11,Mostly Cloudy ,6
+Northbound Deerfoot Trail approaching Cranston Gate SE,-113.9682422,50.85878139,7.5,66,8,9,24.1,89.33,Mostly Cloudy ,6
+Southbound 52 Street and 106 Avenue SE,-113.9589582,50.95784607,8.8,95,35,19,8.1,89.51,"Rain Showers, ",8
+Southbound 52 Street and 106 Avenue SE,-113.9589582,50.95784607,8.8,95,35,19,8.1,89.51,"Rain Showers, ",8
+Southbound 52 Street and 106 Avenue SE,-113.9589582,50.95784607,8.8,95,35,19,8.1,89.51,"Rain Showers, ",8
+Southbound 52 Street and 106 Avenue SE,-113.9585667,50.95836087,-8.4,83,35,18,11.3,88.42, ,8
+Southbound 52 Street and 106 Avenue SE,-113.9585667,50.95836087,-8.4,83,35,18,11.3,88.42, ,8
+Southbound 52 Street and 106 Avenue SE,-113.9585667,50.95836087,-8.4,83,35,18,11.3,88.42, ,8
+Southbound 52 Street and 106 Avenue SE,-113.9589582,50.95784607,-9.2,86,3,27,8.1,89.99, ,8
+Southbound 52 Street and 106 Avenue SE,-113.9589582,50.95784607,-9.2,86,3,27,8.1,89.99, ,8
+Southbound 52 Street and 106 Avenue SE,-113.9589582,50.95784607,-9.2,86,3,27,8.1,89.99, ,8
+50 Street and 126 Avenue SE,-113.9615687,50.93452189,8.9,85,34,23,11.3,89.36,Rain Showers ,6
+McIvor Boulevard and Copperfield Boulevard SE,-113.9321126,50.92001997,9.4,86,33,21,14.5,89.32,Rain Showers ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.9753426,50.9033907,11.7,93,28,14,8.1,87.76,Rain Showers ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.9753426,50.9033907,11.7,93,28,14,8.1,87.76,Rain Showers ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.9753426,50.9033907,11.7,93,28,14,8.1,87.76,Rain Showers ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.9753426,50.9033907,11.7,93,28,14,8.1,87.76,Rain Showers ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.9753426,50.9033907,11.7,93,28,14,8.1,87.76,Rain Showers ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.9743093,50.89541747,-16.8,69,21,10,24.1,89.88,Mainly Clear ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.9743093,50.89541747,-16.8,69,21,10,24.1,89.88,Mainly Clear ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.9743093,50.89541747,-16.8,69,21,10,24.1,89.88,Mainly Clear ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.9743093,50.89541747,-16.8,69,21,10,24.1,89.88,Mainly Clear ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.9743093,50.89541747,-16.8,69,21,10,24.1,89.88,Mainly Clear ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.973092,50.89328046,-6.9,78,24,7,24.1,89.43,Mostly Cloudy ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.973092,50.89328046,-6.9,78,24,7,24.1,89.43,Mostly Cloudy ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.973092,50.89328046,-6.9,78,24,7,24.1,89.43,Mostly Cloudy ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.973092,50.89328046,-6.9,78,24,7,24.1,89.43,Mostly Cloudy ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.973092,50.89328046,-6.9,78,24,7,24.1,89.43,Mostly Cloudy ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.9733029,50.89341599,-6.9,78,24,7,24.1,89.43,Mostly Cloudy ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.9733029,50.89341599,-6.9,78,24,7,24.1,89.43,Mostly Cloudy ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.9733029,50.89341599,-6.9,78,24,7,24.1,89.43,Mostly Cloudy ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.9733029,50.89341599,-6.9,78,24,7,24.1,89.43,Mostly Cloudy ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.9733029,50.89341599,-6.9,78,24,7,24.1,89.43,Mostly Cloudy ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.9866163,50.89832086,-5.9,85,34,20,3.2,88.81, ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.9866163,50.89832086,-5.9,85,34,20,3.2,88.81, ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.9866163,50.89832086,-5.9,85,34,20,3.2,88.81, ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.9866163,50.89832086,-5.9,85,34,20,3.2,88.81, ,6
+Northbound Deerfoot Trail and Stoney Trail SE,-113.9866163,50.89832086,-5.9,85,34,20,3.2,88.81, ,6
+Eastbound Stoney Trail approaching 88 Street SE,-113.9072662,50.90643895,8.9,55,35,26,22.5,87.97,Rain Showers ,6
+52 Street and 76 Avenue SE,-113.9584571,50.98506598,7.4,53,33,14,64.4,88.24,Mostly Cloudy ,8
+52 Street and 76 Avenue SE,-113.9584571,50.98506598,7.4,53,33,14,64.4,88.24,Mostly Cloudy ,8
+52 Street and 76 Avenue SE,-113.9584571,50.98506598,7.4,53,33,14,64.4,88.24,Mostly Cloudy ,8
+52 Street and 76 Avenue SE,-113.9589577,50.98510266,0.1,49,22,20,24.1,88.55,Mostly Cloudy ,8
+52 Street and 76 Avenue SE,-113.9589577,50.98510266,0.1,49,22,20,24.1,88.55,Mostly Cloudy ,8
+52 Street and 76 Avenue SE,-113.9589577,50.98510266,0.1,49,22,20,24.1,88.55,Mostly Cloudy ,8
+52 Street and 76 Avenue SE,-113.9589577,50.98510266,12.3,78,34,19,16.1,89.81,Rain Showers ,8
+52 Street and 76 Avenue SE,-113.9589577,50.98510266,12.3,78,34,19,16.1,89.81,Rain Showers ,8
+52 Street and 76 Avenue SE,-113.9589577,50.98510266,12.3,78,34,19,16.1,89.81,Rain Showers ,8
+Westbound 130 Avenue at 52 Street SE,-113.9588005,50.93156776,4.9,26,13,9,64.4,88.97,25,6
+Eastbound 114 Avenue and 52 Street SE,-113.9581578,50.95055482,6,49,23,11,64.4,89.1,Mainly Clear ,8
+Southbound Deerfoot Trail south of Dunbow Road,-113.9703846,50.85607983,6.6,60,18,18,24.1,89.14,Mainly Clear ,6
+Southbound Deerfoot Trail south of Dunbow Road,-113.9703846,50.85607983,6.6,60,18,18,24.1,89.14,Mainly Clear ,6
+Southbound Deerfoot Trail south of Dunbow Road,-113.9707862,50.85474041,6.6,60,18,18,24.1,89.14,Mainly Clear ,6
+Southbound Deerfoot Trail south of Dunbow Road,-113.9707862,50.85474041,6.6,60,18,18,24.1,89.14,Mainly Clear ,6
+New Brighton Drive and New Brighton Gate SE,-113.9546653,50.91842279,2.6,28,17,9,64.4,89.26,Mostly Cloudy ,6
+Southbound Deerfoot at Stoney Trail SE,-113.9755456,50.90101479,-4.4,21,28,26,64.4,88.7,Mostly Cloudy ,6
+Southbound Deerfoot Trail after 130 Avenue SE,-113.9758886,50.92771065,-4.4,21,28,26,64.4,88.7,Mostly Cloudy ,6
+Southbound 52 Street and 130 Avenue SE,-113.9588005,50.93156776,-0.2,43,34,20,64.4,88.99,Mainly Clear ,6
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9293217,50.97943586,5.8,55,14,26,64.4,88.46,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9293217,50.97943586,5.8,55,14,26,64.4,88.46,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9293217,50.97943586,5.8,55,14,26,64.4,88.46,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9293217,50.97943586,5.8,55,14,26,64.4,88.46,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9293217,50.97943586,5.8,55,14,26,64.4,88.46,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9293217,50.97943586,5.8,55,14,26,64.4,88.46,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9293217,50.97943586,5.8,55,14,26,64.4,88.46,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9264012,50.97944466,3.9,91,32,44,12.9,87.24,Moderate Rain ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9264012,50.97944466,3.9,91,32,44,12.9,87.24,Moderate Rain ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9264012,50.97944466,3.9,91,32,44,12.9,87.24,Moderate Rain ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9264012,50.97944466,3.9,91,32,44,12.9,87.24,Moderate Rain ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9264012,50.97944466,3.9,91,32,44,12.9,87.24,Moderate Rain ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9264012,50.97944466,3.9,91,32,44,12.9,87.24,Moderate Rain ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9264012,50.97944466,3.9,91,32,44,12.9,87.24,Moderate Rain ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9292702,50.97964026,-23.1,73,3,20,3.2,90.16, ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9292702,50.97964026,-23.1,73,3,20,3.2,90.16, ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9292702,50.97964026,-23.1,73,3,20,3.2,90.16, ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9292702,50.97964026,-23.1,73,3,20,3.2,90.16, ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9292702,50.97964026,-23.1,73,3,20,3.2,90.16, ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9292702,50.97964026,-23.1,73,3,20,3.2,90.16, ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9292702,50.97964026,-23.1,73,3,20,3.2,90.16, ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9225832,50.97948076,-4.1,27,27,27,40.2,88.72,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9225832,50.97948076,-4.1,27,27,27,40.2,88.72,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9225832,50.97948076,-4.1,27,27,27,40.2,88.72,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9225832,50.97948076,-4.1,27,27,27,40.2,88.72,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9225832,50.97948076,-4.1,27,27,27,40.2,88.72,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9225832,50.97948076,-4.1,27,27,27,40.2,88.72,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9225832,50.97948076,-4.1,27,27,27,40.2,88.72,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9257818,50.97949327,-4.1,27,27,27,40.2,88.72,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9257818,50.97949327,-4.1,27,27,27,40.2,88.72,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9257818,50.97949327,-4.1,27,27,27,40.2,88.72,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9257818,50.97949327,-4.1,27,27,27,40.2,88.72,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9257818,50.97949327,-4.1,27,27,27,40.2,88.72,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9257818,50.97949327,-4.1,27,27,27,40.2,88.72,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9257818,50.97949327,-4.1,27,27,27,40.2,88.72,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9152909,50.97957234,-4.3,68,2,16,32.2,87.66,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9152909,50.97957234,-4.3,68,2,16,32.2,87.66,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9152909,50.97957234,-4.3,68,2,16,32.2,87.66,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9152909,50.97957234,-4.3,68,2,16,32.2,87.66,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9152909,50.97957234,-4.3,68,2,16,32.2,87.66,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9152909,50.97957234,-4.3,68,2,16,32.2,87.66,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9152909,50.97957234,-4.3,68,2,16,32.2,87.66,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9309778,50.97948854,-0.7,25,8,16,24.1,89.34,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9309778,50.97948854,-0.7,25,8,16,24.1,89.34,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9309778,50.97948854,-0.7,25,8,16,24.1,89.34,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9309778,50.97948854,-0.7,25,8,16,24.1,89.34,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9309778,50.97948854,-0.7,25,8,16,24.1,89.34,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9309778,50.97948854,-0.7,25,8,16,24.1,89.34,Mostly Cloudy ,7
+Eastbound Glenmore Trail approaching Stoney Trail SE,-113.9309778,50.97948854,-0.7,25,8,16,24.1,89.34,Mostly Cloudy ,7
+114 Avenue and 40 Street SE,-113.9782369,50.95045546,5.8,84,33,33,16.1,87.65, ,8
+114 Avenue and 40 Street SE,-113.9782369,50.95045546,5.8,84,33,33,16.1,87.65, ,8
+114 Avenue and 40 Street SE,-113.9782369,50.95045546,5.8,84,33,33,16.1,87.65, ,8
+114 Avenue and 40 Street SE,-113.9782369,50.95045546,5.8,84,33,33,16.1,87.65, ,8
+114 Avenue and 40 Street SE,-113.978152,50.95040169,9.5,71,15,10,24.1,87.8,Mostly Cloudy ,8
+114 Avenue and 40 Street SE,-113.978152,50.95040169,9.5,71,15,10,24.1,87.8,Mostly Cloudy ,8
+114 Avenue and 40 Street SE,-113.978152,50.95040169,9.5,71,15,10,24.1,87.8,Mostly Cloudy ,8
+114 Avenue and 40 Street SE,-113.978152,50.95040169,9.5,71,15,10,24.1,87.8,Mostly Cloudy ,8
+114 Avenue and 40 Street SE,-113.978437,50.95052257,6.9,67,16,11,24.1,88.73,Cloudy ,8
+114 Avenue and 40 Street SE,-113.978437,50.95052257,6.9,67,16,11,24.1,88.73,Cloudy ,8
+114 Avenue and 40 Street SE,-113.978437,50.95052257,6.9,67,16,11,24.1,88.73,Cloudy ,8
+114 Avenue and 40 Street SE,-113.978437,50.95052257,6.9,67,16,11,24.1,88.73,Cloudy ,8
+114 Avenue and 40 Street SE,-113.9782616,50.9504187,-17,83,14,17,1.2,89.14, ,8
+114 Avenue and 40 Street SE,-113.9782616,50.9504187,-17,83,14,17,1.2,89.14, ,8
+114 Avenue and 40 Street SE,-113.9782616,50.9504187,-17,83,14,17,1.2,89.14, ,8
+114 Avenue and 40 Street SE,-113.9782616,50.9504187,-17,83,14,17,1.2,89.14, ,8
+90 Avenue and 40 Street SE,-113.9757897,50.97229504,5.4,65,35,25,16.1,88.86,Mostly Cloudy ,8
+Douglas Woods Ri and Douglasdale Boulevard SE,-113.9962765,50.94212893,5.4,65,35,25,16.1,88.86,Mostly Cloudy ,8
+McKenzie Towne Blvd and Inverness Gate SE,-113.9647181,50.91630122,-2.2,26,26,27,64.4,88.61,Mainly Clear ,6
+McKenzie Towne Blvd and Prestwick Boulevard SE,-113.964747,50.91669454,-2.2,26,26,27,64.4,88.61,Mainly Clear ,6
+Inverness Gate and McKenzie Towne Boulevard SE,-113.9647181,50.91630122,-3.8,25,36,25,64.4,89.5,Mainly Clear ,6
+130 Avenue and 46 Street SE,-113.9689503,50.93207775,2.5,91,33,13,9.7,87.93, ,6
+130 Avenue and 46 Street SE,-113.9689503,50.93207775,2.5,91,33,13,9.7,87.93, ,6
+130 Avenue and 46 Street SE,-113.9689503,50.93207775,2.5,91,33,13,9.7,87.93, ,6
+130 Avenue and 46 Street SE,-113.968795,50.93203492,2.1,84,34,26,22.5,88.64,Rain Showers ,6
+130 Avenue and 46 Street SE,-113.968795,50.93203492,2.1,84,34,26,22.5,88.64,Rain Showers ,6
+130 Avenue and 46 Street SE,-113.968795,50.93203492,2.1,84,34,26,22.5,88.64,Rain Showers ,6
+130 Avenue and 46 Street SE,-113.968795,50.93203492,6.6,73,4,10,24.1,89.03,Mostly Cloudy ,6
+130 Avenue and 46 Street SE,-113.968795,50.93203492,6.6,73,4,10,24.1,89.03,Mostly Cloudy ,6
+130 Avenue and 46 Street SE,-113.968795,50.93203492,6.6,73,4,10,24.1,89.03,Mostly Cloudy ,6
+Northbound 52 Street and 126 Avenue SE,-113.9587154,50.93424619,2.2,92,35,4,8.1,87.88, ,6
+Eastbound Glenmore Trail at 52 Street SE,-113.9589608,50.97947997,3.9,91,32,44,12.9,87.24,Moderate Rain ,8
+Northbound Barlow Trail at 76 Avenue SE,-113.9816102,50.984669,3.8,52,26,5,24.1,88.97,Mostly Cloudy ,8
+Northbound Deerfoot Trail at Seton Boulevard SE,-113.9652941,50.88040304,6.8,83,36,18,11.3,88.72,Cloudy ,6
+Northbound Deerfoot Trail at Seton Boulevard SE,-113.9652941,50.88040304,6.8,83,36,18,11.3,88.72,Cloudy ,6
+Northbound Deerfoot Trail at Seton Boulevard SE,-113.9652941,50.88040304,6.8,83,36,18,11.3,88.72,Cloudy ,6
+Northbound Deerfoot Trail at Seton Boulevard SE,-113.9652941,50.88040304,6.8,83,36,18,11.3,88.72,Cloudy ,6
+Northbound Deerfoot Trail at Seton Boulevard SE,-113.9739982,50.89451463,6.8,83,36,18,11.3,88.72,Cloudy ,6
+Northbound Deerfoot Trail at Seton Boulevard SE,-113.9739982,50.89451463,6.8,83,36,18,11.3,88.72,Cloudy ,6
+Northbound Deerfoot Trail at Seton Boulevard SE,-113.9739982,50.89451463,6.8,83,36,18,11.3,88.72,Cloudy ,6
+Northbound Deerfoot Trail at Seton Boulevard SE,-113.9739982,50.89451463,6.8,83,36,18,11.3,88.72,Cloudy ,6
+Northbound Deerfoot Trail at Seton Boulevard SE,-113.9737607,50.89424658,-20,60,36,19,24.1,88.9,Mainly Clear ,6
+Northbound Deerfoot Trail at Seton Boulevard SE,-113.9737607,50.89424658,-20,60,36,19,24.1,88.9,Mainly Clear ,6
+Northbound Deerfoot Trail at Seton Boulevard SE,-113.9737607,50.89424658,-20,60,36,19,24.1,88.9,Mainly Clear ,6
+Northbound Deerfoot Trail at Seton Boulevard SE,-113.9737607,50.89424658,-20,60,36,19,24.1,88.9,Mainly Clear ,6
+Northbound Deerfoot Trail at Seton Boulevard SE,-113.9630784,50.87610425,-9.5,91,19,13,0.8,89.5, ,6
+Northbound Deerfoot Trail at Seton Boulevard SE,-113.9630784,50.87610425,-9.5,91,19,13,0.8,89.5, ,6
+Northbound Deerfoot Trail at Seton Boulevard SE,-113.9630784,50.87610425,-9.5,91,19,13,0.8,89.5, ,6
+Northbound Deerfoot Trail at Seton Boulevard SE,-113.9630784,50.87610425,-9.5,91,19,13,0.8,89.5, ,6
+Southbound Deerfoot Trail approaching Barlow Trail SE,-114.0034269,51.01495911,-0.8,43,2,26,32.2,88.89,Clear ,8
+Southbound Deerfoot Trail approaching Barlow Trail SE,-113.9890553,50.94653074,-9.3,87,3,21,8.1,89.67,Snow Showers ,8
+Southbound Deerfoot Trail approaching Barlow Trail SE,-114.0034269,51.01495911,-14.4,30,27,35,64.4,86.87,Mostly Cloudy ,8
+Southbound Deerfoot Trail approaching Barlow Trail SE,-114.0034269,51.01495911,-21.3,78,1,15,0.6,89.78,Moderate Snow ,8
+Westbound 130 Avenue and 46 Street SE,-113.9689503,50.93207775,0.4,73,33,39,24.1,89.09,Rain Showers ,6
+Westbound 130 Avenue and 46 Street SE,-113.9689503,50.93207775,0.4,73,33,39,24.1,89.09,Rain Showers ,6
+Westbound 130 Avenue and 46 Street SE,-113.968795,50.93203492,1.3,30,3,18,64.4,89.26,Mostly Cloudy ,6
+Westbound 130 Avenue and 46 Street SE,-113.968795,50.93203492,1.3,30,3,18,64.4,89.26,Mostly Cloudy ,6
+Eastbound 130 Avenue and 46 Street SE,-113.9689503,50.93207775,4.9,86,34,35,4.8,88.43,Rain Showers ,6
+Eastbound 130 Avenue and 46 Street SE,-113.9689503,50.93207775,4.9,86,34,35,4.8,88.43,Rain Showers ,6
+Eastbound 130 Avenue and 46 Street SE,-113.9689503,50.93207775,4.9,86,34,35,4.8,88.43,Rain Showers ,6
+Eastbound 130 Avenue and 46 Street SE,-113.9689503,50.93207775,4.9,86,34,35,4.8,88.43,Rain Showers ,6
+Eastbound 130 Avenue and 46 Street SE,-113.9683025,50.93197482,4.9,86,34,35,4.8,88.43,Rain Showers ,6
+Eastbound 130 Avenue and 46 Street SE,-113.9683025,50.93197482,4.9,86,34,35,4.8,88.43,Rain Showers ,6
+Eastbound 130 Avenue and 46 Street SE,-113.9683025,50.93197482,4.9,86,34,35,4.8,88.43,Rain Showers ,6
+Eastbound 130 Avenue and 46 Street SE,-113.9683025,50.93197482,4.9,86,34,35,4.8,88.43,Rain Showers ,6
+Eastbound 130 Avenue and 46 Street SE,-113.968795,50.93203492,-20.8,72,34,30,6.4,88.55, ,6
+Eastbound 130 Avenue and 46 Street SE,-113.968795,50.93203492,-20.8,72,34,30,6.4,88.55, ,6
+Eastbound 130 Avenue and 46 Street SE,-113.968795,50.93203492,-20.8,72,34,30,6.4,88.55, ,6
+Eastbound 130 Avenue and 46 Street SE,-113.968795,50.93203492,-20.8,72,34,30,6.4,88.55, ,6
+Eastbound 130 Avenue and 46 Street SE,-113.968795,50.93203492,2.5,22,15,14,48.3,88.58,Mainly Clear ,6
+Eastbound 130 Avenue and 46 Street SE,-113.968795,50.93203492,2.5,22,15,14,48.3,88.58,Mainly Clear ,6
+Eastbound 130 Avenue and 46 Street SE,-113.968795,50.93203492,2.5,22,15,14,48.3,88.58,Mainly Clear ,6
+Eastbound 130 Avenue and 46 Street SE,-113.968795,50.93203492,2.5,22,15,14,48.3,88.58,Mainly Clear ,6
+Northbound Stoney Trail after 114 Avenue SE,-113.9204619,50.95608693,-2,40,16,4,64.4,89.18,Cloudy ,7
+Southbound Deerfoot Trail south of Barlow Trail SE,-113.9794317,50.94311319,-8.5,18,29,20,64.4,89,Mostly Cloudy ,8
+Northbound 52 Street and Mckenzie Towne Drive SE,-113.9523123,50.91258019,-10.6,18,31,24,64.4,88.54,Mainly Clear ,6
+52 Street and Mckenzie Towne Drive SE,-113.9519149,50.91279381,-10.6,18,31,24,64.4,88.54,Mainly Clear ,6
+Westbound Glenmore Trail after Stoney Trail SE,-113.9292702,50.97964026,-5.9,39,28,17,64.4,89.24,Mainly Clear ,7
+114 Avenue and 68 Street SE,-113.9351232,50.95051274,-5.9,39,28,17,64.4,89.24,Mainly Clear ,7
+52 Street at 106 Avenue SE,-113.9584992,50.95779179,-2.9,90,34,18,0.4,89.78,Heavy Snow ,8
+52 Street at 106 Avenue SE,-113.9584992,50.95779179,-2.9,90,34,18,0.4,89.78,Heavy Snow ,8
+52 Street at 106 Avenue SE,-113.9589582,50.95784607,-0.6,15,20,20,32.2,88.39,26,8
+52 Street at 106 Avenue SE,-113.9589582,50.95784607,-0.6,15,20,20,32.2,88.39,26,8
+Northbound Deerfoot Trail at 130 Avenue SE,-113.9753571,50.92926499,1.1,88,34,15,8.1,88.86, ,6
+Northbound Deerfoot Trail at 130 Avenue SE,-113.9753571,50.92926499,1.1,88,34,15,8.1,88.86, ,6
+Northbound Deerfoot Trail at 130 Avenue SE,-113.9753382,50.93137141,-2,94,1,11,2.8,88.9, ,6
+Northbound Deerfoot Trail at 130 Avenue SE,-113.9753382,50.93137141,-2,94,1,11,2.8,88.9, ,6
+Northbound Barlow Trail and 72 Avenue SE,-113.9816863,50.98921103,-14,63,23,4,24.1,89.72,Mostly Cloudy ,8
+Northbound Barlow Trail and 72 Avenue SE,-113.9816863,50.98921103,-14,63,23,4,24.1,89.72,Mostly Cloudy ,8
+Northbound Barlow Trail and 72 Avenue SE,-113.9817119,50.98923467,2.9,95,35,19,4.8,89.12, ,8
+Northbound Barlow Trail and 72 Avenue SE,-113.9817119,50.98923467,2.9,95,35,19,4.8,89.12, ,8
+Eastbound Stoney Trail approaching 52 Street SE,-113.9570188,50.90306688,-5.2,77,5,21,9.7,89.03,Snow Pellets ,6
+84 Street north of 114 Avenue SE,-113.9119099,50.95349342,-3.8,83,2,20,24.1,88.2,Mainly Clear ,7
+Northbound Barlow Trail at Glenmore Trail SE,-113.9816176,50.97873085,-11.6,78,5,16,9.7,88.6,Snow Showers ,8
+Northbound Barlow Trail at Glenmore Trail SE,-113.9816176,50.97873085,-11.6,78,5,16,9.7,88.6,Snow Showers ,8
+Northbound Barlow Trail at Glenmore Trail SE,-113.9816176,50.97873085,-11.6,78,5,16,9.7,88.6,Snow Showers ,8
+Northbound Barlow Trail at Glenmore Trail SE,-113.9816176,50.97873085,-11.6,78,5,16,9.7,88.6,Snow Showers ,8
+Northbound Barlow Trail at Glenmore Trail SE,-113.9815439,50.97870208,-11.6,78,5,16,9.7,88.6,Snow Showers ,8
+Northbound Barlow Trail at Glenmore Trail SE,-113.9815439,50.97870208,-11.6,78,5,16,9.7,88.6,Snow Showers ,8
+Northbound Barlow Trail at Glenmore Trail SE,-113.9815439,50.97870208,-11.6,78,5,16,9.7,88.6,Snow Showers ,8
+Northbound Barlow Trail at Glenmore Trail SE,-113.9815439,50.97870208,-11.6,78,5,16,9.7,88.6,Snow Showers ,8
+Northbound Barlow Trail at Glenmore Trail SE,-113.9843501,50.9795238,-8.7,83,34,17,8.1,89.19, ,8
+Northbound Barlow Trail at Glenmore Trail SE,-113.9843501,50.9795238,-8.7,83,34,17,8.1,89.19, ,8
+Northbound Barlow Trail at Glenmore Trail SE,-113.9843501,50.9795238,-8.7,83,34,17,8.1,89.19, ,8
+Northbound Barlow Trail at Glenmore Trail SE,-113.9843501,50.9795238,-8.7,83,34,17,8.1,89.19, ,8
+Northbound Barlow Trail at Glenmore Trail SE,-113.9816972,50.97961735,-8.7,83,34,17,8.1,89.19, ,8
+Northbound Barlow Trail at Glenmore Trail SE,-113.9816972,50.97961735,-8.7,83,34,17,8.1,89.19, ,8
+Northbound Barlow Trail at Glenmore Trail SE,-113.9816972,50.97961735,-8.7,83,34,17,8.1,89.19, ,8
+Northbound Barlow Trail at Glenmore Trail SE,-113.9816972,50.97961735,-8.7,83,34,17,8.1,89.19, ,8
+McIvor Boulevard and Copperstone Street SE,-113.9348672,50.91573838,-11.2,79,5,17,4.8,88.59,Snow Showers ,6
+Glenmore Trail at Stoney Trail SE,-113.9248276,50.97956071,-12.3,74,7,9,4.8,88.64,Snow Showers ,7
+Northbound Deerfoot Trail approaching 130 Avenue SE,-113.9788897,50.93198252,-13.6,80,15,15,6.4,88.76,Snow Showers ,6
+Northbound Deerfoot Trail after Stoney Trail SE,-113.975242,50.90974424,-16,76,16,6,6.4,89.6,Snow Showers ,6
+Northbound Deerfoot Trail approaching McKenzie Towne Boulevard SE,-113.9750523,50.91365986,-16.4,79,13,13,4.8,89.6, ,6
+Northbound Deerfoot Trail approaching McKenzie Towne Boulevard SE,-113.9750523,50.91365986,-16.4,79,13,13,4.8,89.6, ,6
+Northbound Deerfoot Trail approaching McKenzie Towne Boulevard SE,-113.9752509,50.91592779,-5.1,92,36,19,2.4,88.57, ,6
+Northbound Deerfoot Trail approaching McKenzie Towne Boulevard SE,-113.9752509,50.91592779,-5.1,92,36,19,2.4,88.57, ,6
+McIvor Boulevard and New Brighton Wy SE,-113.9435275,50.91414259,-15.7,76,4,20,3.2,89.37, ,6
+Northbound Barlow Trail and Shepard Road SE,-113.9842943,50.9651724,-5.9,90,12,12,1.2,88.41,"Snow Grains, ",8
+Seton Way and Seton Crescent SE,-113.956771,50.87959335,-3.1,61,18,23,64.4,88.22,Cloudy ,6
+Mckenzie Lake Boulevard and Deerfoot Trail SE,-113.9785655,50.91651917,-7.2,47,2,28,56.3,89.08,Mostly Cloudy ,6
+130 Avenue at 46 Street SE,-113.9689503,50.93207775,-11.1,83,14,16,3.6,88.73, ,6
+New Brighton Way at McIvor Boulevard SE,-113.943079,50.91407414,-11,87,17,22,4.8,88.74, ,6
+Deerfoot Trail and Mckenzie Lake Boulevard SE,-113.9785655,50.91651917,-16.6,66,36,1,16.1,89.87,Mostly Cloudy ,6
+Deerfoot Trail and Mckenzie Lake Boulevard SE,-113.9785655,50.91651917,-16.6,66,36,1,16.1,89.87,Mostly Cloudy ,6
+Deerfoot Trail and Mckenzie Lake Boulevard SE,-113.9753257,50.90956221,-13.9,71,19,8,64.4,89.4,Mostly Cloudy ,6
+Deerfoot Trail and Mckenzie Lake Boulevard SE,-113.9753257,50.90956221,-13.9,71,19,8,64.4,89.4,Mostly Cloudy ,6
+Stoney Trail and Cranston Boulevard SE,-113.991255,50.89589293,-24.2,69,33,28,2,90.4, ,6
+Northbound 52 Street and 76 Avenue SE,-113.9589577,50.98510266,-23.1,73,3,20,3.2,90.16, ,8
+Eastbound 114 Avenue after Barlow Trail SE,-113.9804621,50.95039994,-22.7,70,4,24,3.6,90.11, ,8
+Eastbound 114 Avenue at 40 Street SE,-113.9782741,50.95010873,-21.4,71,4,31,6.4,90.1, ,8
+Northbound 52 Street approaching 130 Avenue SE,-113.9579535,50.92878616,-19.4,77,1,34,3.6,90.1, ,6
+Westbound Glenmore Trail and 68 Street SE,-113.9351888,50.97964414,-18.6,79,2,38,3.6,90.04, ,7
+68 Street and Glenmore Trail SE,-113.9351888,50.97964414,-13.6,82,2,23,2.4,89.85, ,7
+Deerfoot Trail and Mckenzie Towne Boulevard SE,-113.9755569,50.91656533,-13.7,80,1,18,1.6,88.56, ,6
+Seton Wy and Seton Drive SE,-113.9575011,50.87678919,-7.5,82,1,24,8.1,88.61, ,6
+Southbound Deerfoot Trail approaching 130 Avenue SE,-113.9756197,50.93611625,-3.2,47,2,22,32.2,88.24,Mainly Clear ,8
+Westbound Stoney Trail approaching 52 Street SE,-113.9318996,50.90689993,-5,81,26,18,64.4,87.59,Mostly Cloudy ,6
+Westbound Stoney Trail approaching 52 Street SE,-113.9318996,50.90689993,-5,81,26,18,64.4,87.59,Mostly Cloudy ,6
+Westbound Stoney Trail approaching 52 Street SE,-113.953452,50.90406448,-27.1,65,8,9,8.1,90.18,Ice Crystals ,6
+Westbound Stoney Trail approaching 52 Street SE,-113.953452,50.90406448,-27.1,65,8,9,8.1,90.18,Ice Crystals ,6
+52 Street and 72 Avenue SE,-113.9581501,50.98925441,-4.8,89,36,39,1.6,88.61, ,8
+Glenmore Trail and Barlow Trail SE,-113.981952,50.97943715,-2,65,22,43,24.1,86.92,Mostly Cloudy ,8
+Glenmore Trail and Barlow Trail SE,-113.981952,50.97943715,-2,65,22,43,24.1,86.92,Mostly Cloudy ,8
+Glenmore Trail and Barlow Trail SE,-113.9817644,50.97920096,-26.6,76,18,20,16.1,89.25,Ice Crystals ,8
+Glenmore Trail and Barlow Trail SE,-113.9817644,50.97920096,-26.6,76,18,20,16.1,89.25,Ice Crystals ,8
+Ogden Road and 80 Avenue SE,-113.9987731,50.98139553,-2.4,46,12,16,64.4,88.32,Mostly Cloudy ,8
+Ogden Road and 80 Avenue SE,-113.9987731,50.98139553,-2.4,46,12,16,64.4,88.32,Mostly Cloudy ,8
+Ogden Road and 80 Avenue SE,-113.9987731,50.98139553,0.2,89,33,12,8.1,88.04,"Rain Showers, ",8
+Ogden Road and 80 Avenue SE,-113.9987731,50.98139553,0.2,89,33,12,8.1,88.04,"Rain Showers, ",8
+Ogden Road and 74 Avenue SE,-113.9987945,50.98688418,-5.5,51,21,9,64.4,88.73,Mainly Clear ,8
+Ogden Road and 74 Avenue SE,-113.9987945,50.98688418,-5.5,51,21,9,64.4,88.73,Mainly Clear ,8
+Ogden Road and 74 Avenue SE,-113.9987945,50.98688418,-8.4,53,36,4,64.4,88.19,Mostly Cloudy ,8
+Ogden Road and 74 Avenue SE,-113.9987945,50.98688418,-8.4,53,36,4,64.4,88.19,Mostly Cloudy ,8
+Glenmore Trail after Stoney Trail SE,-113.9125001,50.97978955,-7.5,31,27,22,48.3,89,Clear ,7
+Westbound 114 Avenue approaching 52 Street SE,-113.9552713,50.95057227,-7.5,31,27,22,48.3,89,Clear ,8
+Northbound 52 Street and Prestwick Gate SE,-113.9582581,50.92548724,-7.5,31,27,22,48.3,89,Clear ,6
+Northbound 52 Street and Prestwick Gate SE,-113.9582581,50.92548724,-7.5,31,27,22,48.3,89,Clear ,6
+Northbound 52 Street and Prestwick Gate SE,-113.9580914,50.92539369,-9.3,87,3,21,8.1,89.67,Snow Showers ,6
+Northbound 52 Street and Prestwick Gate SE,-113.9580914,50.92539369,-9.3,87,3,21,8.1,89.67,Snow Showers ,6
+Northbound Deerfoot Trail at 24 Street SE,-114.005964,50.94947358,-9.1,38,27,32,64.4,89.1,Mostly Cloudy ,8
+Northbound Deerfoot Trail at 24 Street SE,-114.005964,50.94947358,-9.1,38,27,32,64.4,89.1,Mostly Cloudy ,8
+Northbound Deerfoot Trail at 24 Street SE,-114.005964,50.94947358,-9.1,38,27,32,64.4,89.1,Mostly Cloudy ,8
+Northbound Deerfoot Trail at 24 Street SE,-114.0101612,50.95063972,-9.2,43,2,12,64.4,89.88,Clear ,8
+Northbound Deerfoot Trail at 24 Street SE,-114.0101612,50.95063972,-9.2,43,2,12,64.4,89.88,Clear ,8
+Northbound Deerfoot Trail at 24 Street SE,-114.0101612,50.95063972,-9.2,43,2,12,64.4,89.88,Clear ,8
+Northbound Deerfoot Trail at 24 Street SE,-113.9980492,50.94772887,-3.5,64,17,9,64.4,88.06,Mostly Cloudy ,8
+Northbound Deerfoot Trail at 24 Street SE,-113.9980492,50.94772887,-3.5,64,17,9,64.4,88.06,Mostly Cloudy ,8
+Northbound Deerfoot Trail at 24 Street SE,-113.9980492,50.94772887,-3.5,64,17,9,64.4,88.06,Mostly Cloudy ,8
+Northbound Deerfoot Trail at 24 Street SE,-113.9956844,50.94747493,-22.4,78,18,10,16.1,89.81, ,8
+Northbound Deerfoot Trail at 24 Street SE,-113.9956844,50.94747493,-22.4,78,18,10,16.1,89.81, ,8
+Northbound Deerfoot Trail at 24 Street SE,-113.9956844,50.94747493,-22.4,78,18,10,16.1,89.81, ,8
+Northbound Deerfoot Trail at 24 Street SE,-114.0110698,50.95081441,-21.1,76,36,17,4,88.01, ,8
+Northbound Deerfoot Trail at 24 Street SE,-114.0110698,50.95081441,-21.1,76,36,17,4,88.01, ,8
+Northbound Deerfoot Trail at 24 Street SE,-114.0110698,50.95081441,-21.1,76,36,17,4,88.01, ,8
+Northbound Deerfoot Trail at 24 Street SE,-113.9983683,50.94776834,-27.6,76,18,8,11.3,89.21,Ice Crystals ,8
+Northbound Deerfoot Trail at 24 Street SE,-113.9983683,50.94776834,-27.6,76,18,8,11.3,89.21,Ice Crystals ,8
+Northbound Deerfoot Trail at 24 Street SE,-113.9983683,50.94776834,-27.6,76,18,8,11.3,89.21,Ice Crystals ,8
+Northbound Deerfoot Trail at 24 Street SE,-114.0040618,50.94895665,-14.9,29,28,36,24.1,88.53,Cloudy ,8
+Northbound Deerfoot Trail at 24 Street SE,-114.0040618,50.94895665,-14.9,29,28,36,24.1,88.53,Cloudy ,8
+Northbound Deerfoot Trail at 24 Street SE,-114.0040618,50.94895665,-14.9,29,28,36,24.1,88.53,Cloudy ,8
+Northbound Deerfoot Trail at 24 Street SE,-114.0110698,50.95081441,-18.7,83,16,10,19.3,88.97,Ice Crystals ,8
+Northbound Deerfoot Trail at 24 Street SE,-114.0110698,50.95081441,-18.7,83,16,10,19.3,88.97,Ice Crystals ,8
+Northbound Deerfoot Trail at 24 Street SE,-114.0110698,50.95081441,-18.7,83,16,10,19.3,88.97,Ice Crystals ,8
+Northbound Deerfoot Trail at 24 Street SE,-114.0110698,50.95081441,-18.1,81,15,4,64.4,89.67,Clear ,8
+Northbound Deerfoot Trail at 24 Street SE,-114.0110698,50.95081441,-18.1,81,15,4,64.4,89.67,Clear ,8
+Northbound Deerfoot Trail at 24 Street SE,-114.0110698,50.95081441,-18.1,81,15,4,64.4,89.67,Clear ,8
+Ogden Road and 76 Avenue SE,-113.9987836,50.98504693,-7.9,61,17,13,64.4,89.62,Mostly Cloudy ,8
+Mckenzie Towne Boulevard and Deerfoot Trail SE,-113.9755569,50.91656533,-7.9,61,17,13,64.4,89.62,Mostly Cloudy ,6
+Northbound McKenzie Lake Boulevard at Stoney Trail SE,-113.9924078,50.89863063,-12.7,66,6,3,24.1,89.67,Mostly Cloudy ,6
+Cranston Avenue and Cranberry Road SE,-113.9765316,50.87930574,-18.9,82,19,12,8.1,89.71, ,6
+Cranston Avenue and Cranberry Road SE,-113.9765316,50.87930574,-18.9,82,19,12,8.1,89.71, ,6
+Cranston Avenue and Cranberry Road SE,-113.9765316,50.87930574,-12.2,57,18,9,64.4,87.57,Mainly Clear ,6
+Cranston Avenue and Cranberry Road SE,-113.9765316,50.87930574,-12.2,57,18,9,64.4,87.57,Mainly Clear ,6
+Deerfoot Trail and 212 Avenue SE,-113.9626496,50.86591341,-19.5,80,11,8,4,89.79, ,6
+Northbound Stoney Trail and 22x Highway SE,-113.9072662,50.90643895,-5,93,23,9,8.1,87.64,Mostly Cloudy ,6
+Northbound Deerfoot Trail and Douglasdale Boulevard SE,-114.0037652,50.9494387,-8.2,43,26,5,48.3,87.71,Mostly Cloudy ,8
+Northbound Deerfoot Trail and Douglasdale Boulevard SE,-113.9977838,50.94770585,2,96,33,14,4.8,89.08, ,8
+Northbound Deerfoot Trail and Douglasdale Boulevard SE,-114.0053038,50.94674131,-4.5,91,16,18,2.4,88.58, ,8
+Northbound Deerfoot Trail approaching McKensie Towne Boulevard SE,-113.9752039,50.90978981,-12.3,82,1,20,1,89.26, ,6
+Glenmore Trail and Stoney Trail SE,-113.9206475,50.97948396,-15.6,49,26,15,64.4,88.55,Mainly Clear ,7
+Mahogany Street and 52 Street SE,-113.9428448,50.89659289,-4.5,45,10,13,48.3,88.24,Mainly Clear ,6
+Mahogany Street and 52 Street SE,-113.9428448,50.89659289,-4.5,45,10,13,48.3,88.24,Mainly Clear ,6
+Mahogany Street and 52 Street SE,-113.9433315,50.8965613,-9.6,84,4,15,6.4,88.45, ,6
+Mahogany Street and 52 Street SE,-113.9433315,50.8965613,-9.6,84,4,15,6.4,88.45, ,6
+Glenmore Trail and 52 Street SE,-113.9585016,50.97953348,-7.3,54,5,5,64.4,88.52,Mostly Cloudy ,8
+Glenmore Trail and 52 Street SE,-113.9585016,50.97953348,-7.3,54,5,5,64.4,88.52,Mostly Cloudy ,8
+Glenmore Trail and 52 Street SE,-113.9585016,50.97953348,-7.3,54,5,5,64.4,88.52,Mostly Cloudy ,8
+Glenmore Trail and 52 Street SE,-113.9585016,50.97953348,-7.3,54,5,5,64.4,88.52,Mostly Cloudy ,8
+Glenmore Trail and 52 Street SE,-113.9585016,50.97953348,-7.3,54,5,5,64.4,88.52,Mostly Cloudy ,8
+Glenmore Trail and 52 Street SE,-113.9555798,50.9797433,2.5,77,32,26,16.1,88.18,Rain Showers ,8
+Glenmore Trail and 52 Street SE,-113.9555798,50.9797433,2.5,77,32,26,16.1,88.18,Rain Showers ,8
+Glenmore Trail and 52 Street SE,-113.9555798,50.9797433,2.5,77,32,26,16.1,88.18,Rain Showers ,8
+Glenmore Trail and 52 Street SE,-113.9555798,50.9797433,2.5,77,32,26,16.1,88.18,Rain Showers ,8
+Glenmore Trail and 52 Street SE,-113.9555798,50.9797433,2.5,77,32,26,16.1,88.18,Rain Showers ,8
+Glenmore Trail and 52 Street SE,-113.9584722,50.979583,6.2,16,21,10,8.1,88.77,36,8
+Glenmore Trail and 52 Street SE,-113.9584722,50.979583,6.2,16,21,10,8.1,88.77,36,8
+Glenmore Trail and 52 Street SE,-113.9584722,50.979583,6.2,16,21,10,8.1,88.77,36,8
+Glenmore Trail and 52 Street SE,-113.9584722,50.979583,6.2,16,21,10,8.1,88.77,36,8
+Glenmore Trail and 52 Street SE,-113.9584722,50.979583,6.2,16,21,10,8.1,88.77,36,8
+Glenmore Trail and 52 Street SE,-113.9619371,50.97964243,6.1,35,18,18,64.4,89.14,Mainly Clear ,8
+Glenmore Trail and 52 Street SE,-113.9619371,50.97964243,6.1,35,18,18,64.4,89.14,Mainly Clear ,8
+Glenmore Trail and 52 Street SE,-113.9619371,50.97964243,6.1,35,18,18,64.4,89.14,Mainly Clear ,8
+Glenmore Trail and 52 Street SE,-113.9619371,50.97964243,6.1,35,18,18,64.4,89.14,Mainly Clear ,8
+Glenmore Trail and 52 Street SE,-113.9619371,50.97964243,6.1,35,18,18,64.4,89.14,Mainly Clear ,8
+Glenmore Trail and 52 Street SE,-113.9584952,50.97954732,-1.3,87,6,13,4.8,88.48, ,8
+Glenmore Trail and 52 Street SE,-113.9584952,50.97954732,-1.3,87,6,13,4.8,88.48, ,8
+Glenmore Trail and 52 Street SE,-113.9584952,50.97954732,-1.3,87,6,13,4.8,88.48, ,8
+Glenmore Trail and 52 Street SE,-113.9584952,50.97954732,-1.3,87,6,13,4.8,88.48, ,8
+Glenmore Trail and 52 Street SE,-113.9584952,50.97954732,-1.3,87,6,13,4.8,88.48, ,8
+Northbound 52 Street after Glenmore Trail SE,-113.9619371,50.97964243,-4.7,70,19,8,64.4,87.65,Cloudy ,8
+114 Avenue and Barlow Trail SE,-113.9814102,50.95048955,-5.3,63,14,7,64.4,88.01,Mostly Cloudy ,8
+Westbound 130 Avenue at 46 Street SE,-113.9681235,50.93209965,-33.8,69,17,10,9.7,89.58,"Ice Crystals, ",6
+Westbound 130 Avenue at 46 Street SE,-113.9681235,50.93209965,-33.8,69,17,10,9.7,89.58,"Ice Crystals, ",6
+Westbound 130 Avenue at 46 Street SE,-113.968795,50.93203492,-20,70,36,22,9.7,89.72,Ice Crystals ,6
+Westbound 130 Avenue at 46 Street SE,-113.968795,50.93203492,-20,70,36,22,9.7,89.72,Ice Crystals ,6
+Mahogany Wy and Marine Drive SE,-113.9255017,50.9019004,-35.8,71,4,7,22.5,89.31,Ice Crystals ,6
+Deerfoot Trail and Seton Boulevard SE,-113.9655449,50.88070851,-34.6,65,10,7,16.1,88.92,Mainly Clear ,6
+Deerfoot Trail and Seton Boulevard SE,-113.9655449,50.88070851,-34.6,65,10,7,16.1,88.92,Mainly Clear ,6
+Deerfoot Trail and Seton Boulevard SE,-113.9655449,50.88070851,-34.6,65,10,7,16.1,88.92,Mainly Clear ,6
+Deerfoot Trail and Seton Boulevard SE,-113.9737607,50.89424658,-12.8,75,14,18,8.1,88.01, ,6
+Deerfoot Trail and Seton Boulevard SE,-113.9737607,50.89424658,-12.8,75,14,18,8.1,88.01, ,6
+Deerfoot Trail and Seton Boulevard SE,-113.9737607,50.89424658,-12.8,75,14,18,8.1,88.01, ,6
+Deerfoot Trail and Seton Boulevard SE,-113.9737607,50.89424658,-6.5,89,1,16,4,87.94, ,6
+Deerfoot Trail and Seton Boulevard SE,-113.9737607,50.89424658,-6.5,89,1,16,4,87.94, ,6
+Deerfoot Trail and Seton Boulevard SE,-113.9737607,50.89424658,-6.5,89,1,16,4,87.94, ,6
+Barlow Trail and Deerfoot Trail SE,-113.9787746,50.94226865,-34.5,63,7,8,12.9,88.87,Ice Crystals ,8
+Eastbound Stoney Trail approaching Cranston Boulevard SE,-114.0085508,50.89405036,-34.2,61,6,13,9.7,88.81,Ice Crystals ,6
+Eastbound Stoney Trail approaching Cranston Boulevard SE,-113.991255,50.89589293,-22.8,74,36,16,17.7,89.62,Snow Grains ,6
+72 Avenue and 48 Street  SE,-113.9642255,50.98951003,-33,71,36,10,11.3,88.85,Ice Crystals ,8
+114 Avenue and 44 Street SE,-113.9719694,50.9486388,-10.9,90,34,24,2.4,86.93,Ice Crystals ,8
+Hwy 22x and 104 Street SE,-113.8829145,50.90713258,-14.7,87,18,14,11.3,87.74,Mainly Clear ,7
+Westbound Glenmore Trail and Barlow Trail SE,-113.981986,50.97962567,-12.8,88,18,7,2.8,88.01, ,8
+Southbound Stoney Trail b/w 88 Street and 52 Street SE,-113.9234036,50.90682626,-3.1,96,9,7,0.8,88.1, ,6
+52 Street and Auburn Bay Drive SE,-113.9443831,50.89968663,-1.8,97,36,3,0.8,87.54, ,6
+52 Street and Auburn Bay Drive SE,-113.9443831,50.89968663,-1.8,97,36,3,0.8,87.54, ,6
+52 Street and Auburn Bay Drive SE,-113.9445025,50.89943703,-4.5,62,18,15,56.3,88.65,Mostly Cloudy ,6
+52 Street and Auburn Bay Drive SE,-113.9445025,50.89943703,-4.5,62,18,15,56.3,88.65,Mostly Cloudy ,6
+52 Street and Mckenzie Towne Avenue SE,-113.9580202,50.91626295,0.2,81,35,16,9.7,87.95,"Rain Showers, ",6
+Mcivor Boulevard and 52 Street SE,-113.952166,50.91302549,0.2,81,35,16,9.7,87.95,"Rain Showers, ",6
+Seton Wy and Seton Crescent SE,-113.9579744,50.87692754,-10.6,45,15,6,24.1,88.11,Mostly Cloudy ,6
+52 Street and Copperfield Gate SE,-113.9494721,50.91045764,-4.7,60,16,14,64.4,88.17,Mostly Cloudy ,6
+72 Avenue and 52 Street SE,-113.9590314,50.98956083,-16,35,27,30,64.4,88.88,Mainly Clear ,8
+Westbound Glenmore Trail at 100 Street SE,-113.8886665,50.97948042,-16,35,27,30,64.4,88.88,Mainly Clear ,7
+Northbound Deerfoot Trail at McKenzie Towne Boulevard SE,-113.9751257,50.9129939,-12.2,86,36,17,6.4,88.23, ,6
+Northbound Deerfoot Trail at McKenzie Towne Boulevard SE,-113.9751257,50.9129939,-12.2,86,36,17,6.4,88.23, ,6
+Northbound Deerfoot Trail at McKenzie Towne Boulevard SE,-113.9751257,50.9129939,-12.2,86,36,17,6.4,88.23, ,6
+Northbound Deerfoot Trail at McKenzie Towne Boulevard SE,-113.9750719,50.92075354,4.6,45,7,16,16.1,88.34,Mainly Clear ,6
+Northbound Deerfoot Trail at McKenzie Towne Boulevard SE,-113.9750719,50.92075354,4.6,45,7,16,16.1,88.34,Mainly Clear ,6
+Northbound Deerfoot Trail at McKenzie Towne Boulevard SE,-113.9750719,50.92075354,4.6,45,7,16,16.1,88.34,Mainly Clear ,6
+Northbound Deerfoot Trail at McKenzie Towne Boulevard SE,-113.975118,50.92143913,-24.3,76,36,2,8.1,89.26,Ice Crystals ,6
+Northbound Deerfoot Trail at McKenzie Towne Boulevard SE,-113.975118,50.92143913,-24.3,76,36,2,8.1,89.26,Ice Crystals ,6
+Northbound Deerfoot Trail at McKenzie Towne Boulevard SE,-113.975118,50.92143913,-24.3,76,36,2,8.1,89.26,Ice Crystals ,6
+Eastbound 130 Avenue to Southbound Deerfoot Trail SE,-113.9780829,50.93175502,-9.1,90,18,4,4.8,88.4, ,6
+130 Avenue and Deerfoot Trail SE,-113.9782562,50.93179155,-9.1,90,18,4,4.8,88.4, ,6
+130 Avenue and Deerfoot Trail SE,-113.9782562,50.93179155,-9.1,90,18,4,4.8,88.4, ,6
+130 Avenue and Deerfoot Trail SE,-113.9783607,50.93178456,-9.1,90,18,4,4.8,88.4, ,6
+130 Avenue and Deerfoot Trail SE,-113.9783607,50.93178456,-9.1,90,18,4,4.8,88.4, ,6
+Auburn Bay Boulevard and Auburn Bay Street SE,-113.9510869,50.88670191,-9,76,26,3,64.4,88.88,Mostly Cloudy ,6
+Auburn Bay Street and Auburn Bay Boulevard SE,-113.9510869,50.88670191,-9,76,26,3,64.4,88.88,Mostly Cloudy ,6
+Southbound Stoney Trail approaching 114 Avenue SE,-113.9209608,50.95281621,-8.7,86,22,11,11.3,89.11, ,7
+Southbound Stoney Trail and 88 Street SE,-113.9094073,50.9104916,-9.6,88,19,14,8.1,89.21, ,6
+Southbound Stoney Trail and 88 Street SE,-113.9094073,50.9104916,-9.6,88,19,14,8.1,89.21, ,6
+Southbound Stoney Trail and 88 Street SE,-113.9093268,50.91309223,-9.9,87,18,12,1.6,89.26, ,6
+Southbound Stoney Trail and 88 Street SE,-113.9093268,50.91309223,-9.9,87,18,12,1.6,89.26, ,6
+Westbound Stoney Trail b/w 88 Street and 52 Street SE,-113.9267965,50.90688255,-9.9,87,18,12,1.6,89.26, ,6
+Stoney Trail and 88 Street SE,-113.9072662,50.90643895,-5.3,83,33,23,20.9,88.62, ,6
+Stoney Trail and 88 Street SE,-113.9072662,50.90643895,-5.3,83,33,23,20.9,88.62, ,6
+Stoney Trail and 88 Street SE,-113.9072662,50.90643895,-5.3,83,33,23,20.9,88.62, ,6
+Stoney Trail and 88 Street SE,-113.9072662,50.90643895,-3.7,90,1,26,1.2,89.78, ,6
+Stoney Trail and 88 Street SE,-113.9072662,50.90643895,-3.7,90,1,26,1.2,89.78, ,6
+Stoney Trail and 88 Street SE,-113.9072662,50.90643895,-3.7,90,1,26,1.2,89.78, ,6
+Stoney Trail and 88 Street SE,-113.9064806,50.90698528,-7.8,92,7,3,0.8,88.7, ,6
+Stoney Trail and 88 Street SE,-113.9064806,50.90698528,-7.8,92,7,3,0.8,88.7, ,6
+Stoney Trail and 88 Street SE,-113.9064806,50.90698528,-7.8,92,7,3,0.8,88.7, ,6
+Eastbound Stoney Trail at 88 Street SE,-113.9099577,50.90879787,-4.7,57,22,7,64.4,88.03,Mostly Cloudy ,6
+Eastbound Stoney Trail at 88 Street SE,-113.9099577,50.90879787,-4.7,57,22,7,64.4,88.03,Mostly Cloudy ,6
+Eastbound Stoney Trail at 88 Street SE,-113.9140913,50.90671073,-5.1,15,26,13,48.3,88.35,Mostly Cloudy ,6
+Eastbound Stoney Trail at 88 Street SE,-113.9140913,50.90671073,-5.1,15,26,13,48.3,88.35,Mostly Cloudy ,6
+Seton Wy and Market Street SE,-113.9566127,50.87953998,-16,69,18,16,64.4,88.82,Clear ,6
+Deerfoot Trail and 130 Avenue SE,-113.9754591,50.93193277,-15.9,81,36,24,1.6,89.67, ,6
+Deerfoot Trail and 130 Avenue SE,-113.9754591,50.93193277,-15.9,81,36,24,1.6,89.67, ,6
+Deerfoot Trail and 130 Avenue SE,-113.9754591,50.93193277,-15.9,81,36,24,1.6,89.67, ,6
+Deerfoot Trail and 130 Avenue SE,-113.9788897,50.93198252,-3.4,88,15,18,9.7,89.08, ,6
+Deerfoot Trail and 130 Avenue SE,-113.9788897,50.93198252,-3.4,88,15,18,9.7,89.08, ,6
+Deerfoot Trail and 130 Avenue SE,-113.9788897,50.93198252,-3.4,88,15,18,9.7,89.08, ,6
+Deerfoot Trail and 130 Avenue SE,-113.9788897,50.93198252,-6.5,59,17,8,24.1,88.88,Mainly Clear ,6
+Deerfoot Trail and 130 Avenue SE,-113.9788897,50.93198252,-6.5,59,17,8,24.1,88.88,Mainly Clear ,6
+Deerfoot Trail and 130 Avenue SE,-113.9788897,50.93198252,-6.5,59,17,8,24.1,88.88,Mainly Clear ,6
+Southbound Deerfoot Trail South of 212 Avenue SE,-113.9666918,50.88216171,-16.9,74,35,27,2.8,89.69, ,6
+Southbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-16.3,76,35,21,6.4,89.68, ,7
+Southbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-16.3,76,35,21,6.4,89.68, ,7
+Southbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-27.6,66,34,18,4.8,88.3, ,7
+Southbound Stoney Trail and Glenmore Trail SE,-113.9292702,50.97964026,-27.6,66,34,18,4.8,88.3, ,7
+Southbound Deerfoot Trail approaching Seton Boulevard SE,-113.9714236,50.88985102,-9.2,83,36,14,11.3,88.89, ,6
+Southbound Deerfoot Trail approaching Seton Boulevard SE,-113.9714236,50.88985102,-9.2,83,36,14,11.3,88.89, ,6
+Southbound Deerfoot Trail approaching Seton Boulevard SE,-113.9691073,50.8861907,-13.1,85,14,8,4.8,90.37, ,6
+Southbound Deerfoot Trail approaching Seton Boulevard SE,-113.9691073,50.8861907,-13.1,85,14,8,4.8,90.37, ,6
+Southbound 52 Street and 110 Avenue SE,-113.9586112,50.95322237,-9.4,84,3,16,16.1,88.81,Ice Crystals ,8
+Westbound Stoney Trail and Deerfoot Trail SE,-113.9866163,50.89832095,-9.9,78,3,19,24.1,88.76,Cloudy ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.9866163,50.89832095,-9.9,78,3,19,24.1,88.76,Cloudy ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.9866163,50.89832095,-9.9,78,3,19,24.1,88.76,Cloudy ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.9866163,50.89832095,-9.9,78,3,19,24.1,88.76,Cloudy ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.9866163,50.89832095,-9.9,78,3,19,24.1,88.76,Cloudy ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.9707907,50.90138831,-6.9,85,2,26,3.6,88.83, ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.9707907,50.90138831,-6.9,85,2,26,3.6,88.83, ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.9707907,50.90138831,-6.9,85,2,26,3.6,88.83, ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.9707907,50.90138831,-6.9,85,2,26,3.6,88.83, ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.9707907,50.90138831,-6.9,85,2,26,3.6,88.83, ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.9829615,50.89903355,-5.3,83,17,13,16.1,89.32,Mainly Clear ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.9829615,50.89903355,-5.3,83,17,13,16.1,89.32,Mainly Clear ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.9829615,50.89903355,-5.3,83,17,13,16.1,89.32,Mainly Clear ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.9829615,50.89903355,-5.3,83,17,13,16.1,89.32,Mainly Clear ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.9829615,50.89903355,-5.3,83,17,13,16.1,89.32,Mainly Clear ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.976204,50.90019468,-5.3,83,17,13,16.1,89.32,Mainly Clear ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.976204,50.90019468,-5.3,83,17,13,16.1,89.32,Mainly Clear ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.976204,50.90019468,-5.3,83,17,13,16.1,89.32,Mainly Clear ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.976204,50.90019468,-5.3,83,17,13,16.1,89.32,Mainly Clear ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.976204,50.90019468,-5.3,83,17,13,16.1,89.32,Mainly Clear ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.9736767,50.90080213,-5.3,83,17,13,16.1,89.32,Mainly Clear ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.9736767,50.90080213,-5.3,83,17,13,16.1,89.32,Mainly Clear ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.9736767,50.90080213,-5.3,83,17,13,16.1,89.32,Mainly Clear ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.9736767,50.90080213,-5.3,83,17,13,16.1,89.32,Mainly Clear ,6
+Westbound Stoney Trail and Deerfoot Trail SE,-113.9736767,50.90080213,-5.3,83,17,13,16.1,89.32,Mainly Clear ,6
+Southbound Stoney Trail at 88 Street SE,-113.9106911,50.90880607,-9.9,78,3,19,24.1,88.76,Cloudy ,6
+52 Street between 130 Avenue and McIvor Boulevard SE,-113.9582087,50.92522553,-4.6,44,17,15,64.4,88.81,Mostly Cloudy ,6
+48 Street and 126 Avenue SE,-113.9652844,50.93493533,-1.4,77,2,15,64.4,88.5,Cloudy ,6
+Eastbound 114 Avenue to Southbound Barlow Trail SE,-113.9818772,50.95023547,4.9,69,18,15,64.4,88.82,Mostly Cloudy ,8
+Southbound 52 Street and Stoney Trail SE,-113.9478809,50.90579844,-10.4,63,24,9,56.3,89.87,Clear ,6
+Southbound 52 Street and Stoney Trail SE,-113.9478809,50.90579844,-10.4,63,24,9,56.3,89.87,Clear ,6
+Southbound 52 Street and Stoney Trail SE,-113.9478809,50.90579844,-10.4,63,24,9,56.3,89.87,Clear ,6
+Southbound 52 Street and Stoney Trail SE,-113.953452,50.90406448,-12.8,44,7,10,64.4,87.86,Mainly Clear ,6
+Southbound 52 Street and Stoney Trail SE,-113.953452,50.90406448,-12.8,44,7,10,64.4,87.86,Mainly Clear ,6
+Southbound 52 Street and Stoney Trail SE,-113.953452,50.90406448,-12.8,44,7,10,64.4,87.86,Mainly Clear ,6
+Southbound 52 Street and Stoney Trail SE,-113.953452,50.90406448,-4.3,81,34,10,16.1,87.63,Mostly Cloudy ,6
+Southbound 52 Street and Stoney Trail SE,-113.953452,50.90406448,-4.3,81,34,10,16.1,87.63,Mostly Cloudy ,6
+Southbound 52 Street and Stoney Trail SE,-113.953452,50.90406448,-4.3,81,34,10,16.1,87.63,Mostly Cloudy ,6
+Northbound 52 Street to Westbound Stoney Trail SE,-113.9509121,50.90507804,-15.8,87,18,11,8.1,90.41, ,6
+Southbound Stoney Trail approaching 88 Street SE,-113.9131979,50.91746581,0.2,93,34,9,4.8,89.1, ,6
+106 Avenue and 42 Street SE,-113.974077,50.95789796,-5.5,37,31,17,64.4,89.04,Mostly Cloudy ,8
+106 Avenue and 42 Street SE,-113.974077,50.95789796,-5.5,37,31,17,64.4,89.04,Mostly Cloudy ,8
+106 Avenue and 42 Street SE,-113.974077,50.95789796,-11.5,81,36,32,8.1,89.68, ,8
+106 Avenue and 42 Street SE,-113.974077,50.95789796,-11.5,81,36,32,8.1,89.68, ,8
+Barlow Trail at 90 Avenue SE,-113.9824058,50.97232841,-4.2,90,34,26,0.8,89.16,"Moderate Snow,Blowing Snow ",8
+Mt Mckenzie Drive and Mckenzie Lake Boulevard SE,-113.9814758,50.91645854,-0.6,41,27,20,24.1,88.74,Mostly Cloudy ,6
+Elgin Estates Vw and Mckenzie Towne Drive SE,-113.9592698,50.90961003,0.3,66,2,15,24.1,88.58,Mostly Cloudy ,6
+106 Avenue and 52 Street SE,-113.9589582,50.95784607,0.7,64,2,30,64.4,88.43,Rain Showers ,8
+Southbound 52 Street approaching Glenmore Trail SE,-113.9586288,50.98075317,-6.7,28,27,37,32.2,87.13,Clear ,8
+Shepard Road and Barlow Trail SE,-113.9842943,50.9651724,-0.7,52,12,12,24.1,88.64,Mainly Clear ,8
+Northbound Deerfoot Trail at Stoney Trail SE,-113.9752311,50.90694243,-9.5,79,34,15,16.1,89.37,Mostly Cloudy ,6
+Northbound Deerfoot Trail at Stoney Trail SE,-113.9752311,50.90694243,-9.5,79,34,15,16.1,89.37,Mostly Cloudy ,6
+Northbound Deerfoot Trail at Stoney Trail SE,-113.9752311,50.90694243,-9.5,79,34,15,16.1,89.37,Mostly Cloudy ,6
+Northbound Deerfoot Trail at Stoney Trail SE,-113.9866163,50.89832086,6.7,93,33,16,9.7,88.69, ,6
+Northbound Deerfoot Trail at Stoney Trail SE,-113.9866163,50.89832086,6.7,93,33,16,9.7,88.69, ,6
+Northbound Deerfoot Trail at Stoney Trail SE,-113.9866163,50.89832086,6.7,93,33,16,9.7,88.69, ,6
+Northbound Deerfoot Trail at Stoney Trail SE,-113.9751954,50.9058221,-24.9,71,33,4,6.4,89.91, ,6
+Northbound Deerfoot Trail at Stoney Trail SE,-113.9751954,50.9058221,-24.9,71,33,4,6.4,89.91, ,6
+Northbound Deerfoot Trail at Stoney Trail SE,-113.9751954,50.9058221,-24.9,71,33,4,6.4,89.91, ,6
+Eastbound Stoney to Northbound Deerfoot Trail SE,-113.9788563,50.89894406,-9.5,79,34,15,16.1,89.37,Mostly Cloudy ,6
+Southbound 52 Street and Prestwick Gate SE,-113.9581903,50.92563582,-8,80,35,32,8.1,89.15, ,6
+McKenzie Lake Boulevard at Deerfoot Trail SE,-113.9774262,50.91649262,-7.1,80,1,26,8.1,88.97, ,6
+Eastbound 90 Avenue and 52 Street SE,-113.9592036,50.9723512,-7,84,1,31,3.2,88.9, ,8
+Eastbound 90 Avenue and 52 Street SE,-113.9592036,50.9723512,-7,84,1,31,3.2,88.9, ,8
+Eastbound 90 Avenue and 52 Street SE,-113.9592036,50.9723512,-15.8,40,27,18,64.4,88.18,Mainly Clear ,8
+Eastbound 90 Avenue and 52 Street SE,-113.9592036,50.9723512,-15.8,40,27,18,64.4,88.18,Mainly Clear ,8
+Southbound 52 Street at 86 Avenue SE,-113.9587258,50.97590526,-6.3,88,36,19,0.8,88.87, ,8
+Westbound McKenzie Towne Boulevard onto Northbound Deerfoot Trail SE,-113.9749391,50.91743623,-6.2,87,3,31,1.2,88.71, ,6
+68 Street and 114 Avenue SE,-113.935244,50.95039972,-3.3,42,19,7,64.4,87.89,Mostly Cloudy ,7
+Barlow Trail and 90 Avenue SE,-113.9816236,50.9723175,-6,35,28,27,64.4,88.81,Mostly Cloudy ,8
+Stoney Trail and Mckenzie Lake Boulevard SE,-113.9925535,50.89890007,-5.4,39,27,17,24.1,88.76,Clear ,6
+42 Street and 112 Avenue SE,-113.9750498,50.95244779,-4.9,75,14,12,48.3,89.29,Mainly Clear ,8
+Southbound Deerfoot Trail and Stoney Trail SE,-113.9739652,50.89854823,-4.7,81,2,7,9.7,89.38, ,6
+Southbound Deerfoot Trail and Stoney Trail SE,-113.9739652,50.89854823,-4.7,81,2,7,9.7,89.38, ,6
+Southbound Deerfoot Trail and Stoney Trail SE,-113.9739652,50.89854823,-4.7,81,2,7,9.7,89.38, ,6
+Southbound Deerfoot Trail and Stoney Trail SE,-113.9730823,50.89227457,-3.6,92,3,18,1.6,89.71, ,6
+Southbound Deerfoot Trail and Stoney Trail SE,-113.9730823,50.89227457,-3.6,92,3,18,1.6,89.71, ,6
+Southbound Deerfoot Trail and Stoney Trail SE,-113.9730823,50.89227457,-3.6,92,3,18,1.6,89.71, ,6
+Southbound Deerfoot Trail and Stoney Trail SE,-113.9754978,50.90657839,-3.6,79,4,11,16.1,87.81,Cloudy ,6
+Southbound Deerfoot Trail and Stoney Trail SE,-113.9754978,50.90657839,-3.6,79,4,11,16.1,87.81,Cloudy ,6
+Southbound Deerfoot Trail and Stoney Trail SE,-113.9754978,50.90657839,-3.6,79,4,11,16.1,87.81,Cloudy ,6
+Westbound Stoney Trail and 52 Street SE,-113.9544172,50.90394188,-4.4,90,35,12,4.8,89.4, ,6
+Westbound Stoney Trail and 52 Street SE,-113.9544172,50.90394188,-4.4,90,35,12,4.8,89.4, ,6
+Westbound Stoney Trail and 52 Street SE,-113.9380229,50.90672094,5.1,30,16,12,64.4,89.5,Mainly Clear ,6
+Westbound Stoney Trail and 52 Street SE,-113.9380229,50.90672094,5.1,30,16,12,64.4,89.5,Mainly Clear ,6
+Northbound 52 Street and Stoney Trail SE,-113.9444498,50.90445835,-3.5,92,3,26,1.6,89.74, ,6
+Northbound Stoney Trail and Hwy 22x SE,-113.9046988,50.90895129,-3,91,1,28,1.6,89.68, ,6
+Deerfoot Trail and Cranston Av SE,-113.9705025,50.87940209,-3.5,90,1,27,1,89.72, ,6
+52 Street and 114 Avenue SE,-113.9583145,50.94996577,-4,90,1,24,0.8,89.81,Moderate Snow ,8
+52 Street and 114 Avenue SE,-113.9583145,50.94996577,-4,90,1,24,0.8,89.81,Moderate Snow ,8
+52 Street and 114 Avenue SE,-113.9586708,50.95059537,-23.3,60,36,25,24.1,89.37,Mostly Cloudy ,8
+52 Street and 114 Avenue SE,-113.9586708,50.95059537,-23.3,60,36,25,24.1,89.37,Mostly Cloudy ,8
+Seton Cr and Seton Wy SE,-113.9579744,50.87692754,1.2,93,3,14,8.1,88.98,"Rain Showers,Snow Showers, ",6
+Seton Cr and Seton Wy SE,-113.9579744,50.87692754,1.2,93,3,14,8.1,88.98,"Rain Showers,Snow Showers, ",6
+Seton Cr and Seton Wy SE,-113.9599901,50.87761499,9.9,75,36,6,16.1,88.14,Mostly Cloudy ,6
+Seton Cr and Seton Wy SE,-113.9599901,50.87761499,9.9,75,36,6,16.1,88.14,Mostly Cloudy ,6
+Westbound Glenmore Trail and 52 Street SE,-113.9543378,50.97967387,8.3,86,36,10,16.1,88.34,Mostly Cloudy ,8
+Westbound Glenmore Trail and 52 Street SE,-113.9543378,50.97967387,8.3,86,36,10,16.1,88.34,Mostly Cloudy ,8
+Westbound Glenmore Trail and 52 Street SE,-113.9543378,50.97967387,8.3,86,36,10,16.1,88.34,Mostly Cloudy ,8
+Westbound Glenmore Trail and 52 Street SE,-113.9619371,50.97964243,-19.7,72,34,27,6.4,88.58, ,8
+Westbound Glenmore Trail and 52 Street SE,-113.9619371,50.97964243,-19.7,72,34,27,6.4,88.58, ,8
+Westbound Glenmore Trail and 52 Street SE,-113.9619371,50.97964243,-19.7,72,34,27,6.4,88.58, ,8
+Westbound Glenmore Trail and 52 Street SE,-113.9619371,50.97964243,-3.9,72,11,5,32.2,88.98,Mainly Clear ,8
+Westbound Glenmore Trail and 52 Street SE,-113.9619371,50.97964243,-3.9,72,11,5,32.2,88.98,Mainly Clear ,8
+Westbound Glenmore Trail and 52 Street SE,-113.9619371,50.97964243,-3.9,72,11,5,32.2,88.98,Mainly Clear ,8
+Southbound 52 Street at Dufferin Boulevard SE,-113.9585927,50.95401734,11.9,73,2,45,14.5,88.17,"Thunderstorms,Rain Showers, ",8
+Southbound 52 Street at Dufferin Boulevard SE,-113.9585927,50.95401734,11.9,73,2,45,14.5,88.17,"Thunderstorms,Rain Showers, ",8
+Southbound 52 Street at Dufferin Boulevard SE,-113.9583294,50.95425107,11.9,73,2,45,14.5,88.17,"Thunderstorms,Rain Showers, ",8
+Southbound 52 Street at Dufferin Boulevard SE,-113.9583294,50.95425107,11.9,73,2,45,14.5,88.17,"Thunderstorms,Rain Showers, ",8
+Eastbound Cranston Avenue and Deerfoot Trail SE,-113.9692549,50.87952412,7.2,47,24,6,64.4,89.57,Mainly Clear ,6
+Eastbound Cranston Avenue and Deerfoot Trail SE,-113.9692549,50.87952412,7.2,47,24,6,64.4,89.57,Mainly Clear ,6
+Eastbound Cranston Avenue and Deerfoot Trail SE,-113.9705025,50.87940209,12.6,55,36,30,24.1,88.56,25,6
+Eastbound Cranston Avenue and Deerfoot Trail SE,-113.9705025,50.87940209,12.6,55,36,30,24.1,88.56,25,6
+Southbound Stoney Trail at 114 Avenue SE,-113.9206626,50.94202653,6.8,61,23,6,24.1,89.66,Mainly Clear ,7
+Southbound Stoney Trail at 114 Avenue SE,-113.9206626,50.94202653,6.8,61,23,6,24.1,89.66,Mainly Clear ,7
+Southbound Stoney Trail at 114 Avenue SE,-113.9206626,50.94202653,6.8,61,23,6,24.1,89.66,Mainly Clear ,7
+Southbound Stoney Trail at 114 Avenue SE,-113.9206194,50.94240596,-21.3,77,6,13,4.8,89.75, ,7
+Southbound Stoney Trail at 114 Avenue SE,-113.9206194,50.94240596,-21.3,77,6,13,4.8,89.75, ,7
+Southbound Stoney Trail at 114 Avenue SE,-113.9206194,50.94240596,-21.3,77,6,13,4.8,89.75, ,7
+Southbound Stoney Trail at 114 Avenue SE,-113.9294816,50.94941477,-20.2,79,7,14,2.4,89.4, ,7
+Southbound Stoney Trail at 114 Avenue SE,-113.9294816,50.94941477,-20.2,79,7,14,2.4,89.4, ,7
+Southbound Stoney Trail at 114 Avenue SE,-113.9294816,50.94941477,-20.2,79,7,14,2.4,89.4, ,7
+Northbound Deerfoot Trail and 130 Avenue SE,-113.9750166,50.93456393,4.7,58,9,15,64.4,89.68,Mainly Clear ,6
+Northbound Deerfoot Trail and 130 Avenue SE,-113.9750166,50.93456393,4.7,58,9,15,64.4,89.68,Mainly Clear ,6
+Northbound Deerfoot Trail and 130 Avenue SE,-113.9753302,50.92824445,-25.1,72,36,2,64.4,90.01,Clear ,6
+Northbound Deerfoot Trail and 130 Avenue SE,-113.9753302,50.92824445,-25.1,72,36,2,64.4,90.01,Clear ,6
+Westbound 114 Avenue and 52 Street SE,-113.9565546,50.95058786,3.1,79,36,36,24.1,88.7,Mostly Cloudy ,8
+Westbound 114 Avenue and 52 Street SE,-113.9565546,50.95058786,3.1,79,36,36,24.1,88.7,Mostly Cloudy ,8
+Westbound 114 Avenue and 52 Street SE,-113.9586708,50.95059537,-7.2,80,20,10,24.1,88.78,Clear ,8
+Westbound 114 Avenue and 52 Street SE,-113.9586708,50.95059537,-7.2,80,20,10,24.1,88.78,Clear ,8
+Southbound Deerfoot Trail at Stoney Trail SE,-113.9751005,50.89589339,5.2,57,16,11,1.2,89.31,Smoke ,6
+Southbound Deerfoot Trail at Stoney Trail SE,-113.9751005,50.89589339,5.2,57,16,11,1.2,89.31,Smoke ,6
+Southbound Deerfoot Trail at Stoney Trail SE,-113.9761366,50.89799573,-30.2,71,33,13,11.3,90.43,Ice Crystals ,6
+Southbound Deerfoot Trail at Stoney Trail SE,-113.9761366,50.89799573,-30.2,71,33,13,11.3,90.43,Ice Crystals ,6
+Cranston Drive and Cramond Drive SE,-113.9795742,50.89227202,-2.1,47,23,11,40.2,89.1,Mainly Clear ,6
+Westbound Deerfoot Trail approaching 24 Street SE,-113.9906631,50.94689767,1.1,92,14,21,11.3,89.15, ,8
+Southbound Barlow Trail and Glenmore Trail SE,-113.9819144,50.97757202,3,92,15,19,6.4,88.57, ,8
+88 Street and Stoney Trail SE,-113.9072662,50.90643895,3,80,13,28,24.1,88.97,Cloudy ,6
+Deerfoot Trail at Stoney Trail SE,-113.9748182,50.90203284,2.2,85,34,18,9.7,89.31,Haze ,6
+Deerfoot Trail at Stoney Trail SE,-113.9748182,50.90203284,2.2,85,34,18,9.7,89.31,Haze ,6
+Deerfoot Trail at Stoney Trail SE,-113.9748182,50.90203284,2.2,85,34,18,9.7,89.31,Haze ,6
+Deerfoot Trail at Stoney Trail SE,-113.9750876,50.90123126,2.2,85,34,18,9.7,89.31,Haze ,6
+Deerfoot Trail at Stoney Trail SE,-113.9750876,50.90123126,2.2,85,34,18,9.7,89.31,Haze ,6
+Deerfoot Trail at Stoney Trail SE,-113.9750876,50.90123126,2.2,85,34,18,9.7,89.31,Haze ,6
+Deerfoot Trail at Stoney Trail SE,-113.9750603,50.9014133,2.2,85,34,18,9.7,89.31,Haze ,6
+Deerfoot Trail at Stoney Trail SE,-113.9750603,50.9014133,2.2,85,34,18,9.7,89.31,Haze ,6
+Deerfoot Trail at Stoney Trail SE,-113.9750603,50.9014133,2.2,85,34,18,9.7,89.31,Haze ,6
+Stoney Trail at 88 Street SE,-113.9108843,50.90910127,-1.8,89,36,1,9.7,89.12, ,6
+Mahogany Gate and 52 Street SE,-113.9446747,50.89952351,-3,91,5,14,2.4,89.03,Snow Showers ,6
+Mahogany Gate and 52 Street SE,-113.9446747,50.89952351,-3,91,5,14,2.4,89.03,Snow Showers ,6
+Mahogany Gate and 52 Street SE,-113.9446747,50.89952351,-1.7,89,34,25,3.2,87.78, ,6
+Mahogany Gate and 52 Street SE,-113.9446747,50.89952351,-1.7,89,34,25,3.2,87.78, ,6
+110 Avenue and 40 Street SE,-113.9771439,50.95606494,0.8,79,14,13,32.2,88.31,Mainly Clear ,8
+110 Avenue and 40 Street SE,-113.9771439,50.95606494,0.8,79,14,13,32.2,88.31,Mainly Clear ,8
+110 Avenue and 40 Street SE,-113.9771439,50.95606494,-8.4,29,29,31,64.4,88.93,Mostly Cloudy ,8
+110 Avenue and 40 Street SE,-113.9771439,50.95606494,-8.4,29,29,31,64.4,88.93,Mostly Cloudy ,8
+Southbound 52 Street and 114 Avenue SE,-113.9586708,50.95059537,-5.8,59,6,5,24.1,89.26,Mostly Cloudy ,8
+Seton Boulevard and Auburn Bay Street SE,-113.9497664,50.88405929,-10.3,19,29,37,64.4,88.67,Mainly Clear ,6
+48 Street at 84 Avenue SE,-113.9641788,50.97772759,-8.6,23,19,11,64.4,88.28,Mostly Cloudy ,8
+Front Street and Seton Way SE,-113.9565703,50.88089565,-5.4,60,28,3,64.4,88.46,Mostly Cloudy ,6
+Barlow Trail at 114 Avenue SE,-113.9815604,50.9505374,-0.3,95,35,14,6.4,88.73,"Snow Showers, ",8
+Barlow Trail at 114 Avenue SE,-113.9815604,50.9505374,-0.3,95,35,14,6.4,88.73,"Snow Showers, ",8
+Barlow Trail at 114 Avenue SE,-113.9821108,50.95052948,1.8,89,35,20,8.1,88.6,"Rain Showers, ",8
+Barlow Trail at 114 Avenue SE,-113.9821108,50.95052948,1.8,89,35,20,8.1,88.6,"Rain Showers, ",8
+52 Street and Prestwick Gate SE,-113.9580327,50.92595194,-8.6,32,29,21,64.4,89.02,Clear ,6
+52 Street and Prestwick Gate SE,-113.9580327,50.92595194,-8.6,32,29,21,64.4,89.02,Clear ,6
+52 Street and Prestwick Gate SE,-113.9587168,50.92552004,-25.8,73,4,19,8.1,90.08,"Snow Grains,Ice Crystals ",6
+52 Street and Prestwick Gate SE,-113.9587168,50.92552004,-25.8,73,4,19,8.1,90.08,"Snow Grains,Ice Crystals ",6
+76 Avenue and Barlow Trail SE,-113.9798174,50.98516323,-6,36,4,4,64.4,89.98,Mainly Clear ,8
+76 Avenue and Barlow Trail SE,-113.9798174,50.98516323,-6,36,4,4,64.4,89.98,Mainly Clear ,8
+76 Avenue and Barlow Trail SE,-113.9819495,50.98515989,-2.3,18,27,28,64.4,88.28,Mainly Clear ,8
+76 Avenue and Barlow Trail SE,-113.9819495,50.98515989,-2.3,18,27,28,64.4,88.28,Mainly Clear ,8
+Auburn Glen Wy and Auburn Glen Common SE,-113.9590601,50.89837486,-2.9,70,36,2,64.4,89.25,Clear ,6
+Eastbound Glenmore Trail at 24 Street SE,-113.9983741,50.97956286,-11.3,58,2,13,48.3,88.67,Mainly Clear ,8
+Eastbound Stoney Trail and Deerfoot Trail SE,-113.977379,50.90019141,-29.8,75,32,3,9.7,89.62,Mainly Clear ,6
+Northbound Deerfoot and 130 Avenue SE,-113.9752341,50.92829522,-22.4,78,18,10,16.1,89.81, ,6
+Stoney Trail and 52 Street SE,-113.9503722,50.9037073,-21.8,79,22,5,8.1,89.88, ,6
+Stoney Trail and 52 Street SE,-113.9503722,50.9037073,-21.8,79,22,5,8.1,89.88, ,6
+Stoney Trail and 52 Street SE,-113.9503722,50.9037073,-21.8,79,22,5,8.1,89.88, ,6
+Stoney Trail and 52 Street SE,-113.9503722,50.9037073,-21.8,79,22,5,8.1,89.88, ,6
+Stoney Trail and 52 Street SE,-113.953452,50.90406448,-2.7,94,3,13,0.8,87.74, ,6
+Stoney Trail and 52 Street SE,-113.953452,50.90406448,-2.7,94,3,13,0.8,87.74, ,6
+Stoney Trail and 52 Street SE,-113.953452,50.90406448,-2.7,94,3,13,0.8,87.74, ,6
+Stoney Trail and 52 Street SE,-113.953452,50.90406448,-2.7,94,3,13,0.8,87.74, ,6
+Stoney Trail and 52 Street SE,-113.9477877,50.90660246,2.2,25,18,12,64.4,88.96,Mainly Clear ,6
+Stoney Trail and 52 Street SE,-113.9477877,50.90660246,2.2,25,18,12,64.4,88.96,Mainly Clear ,6
+Stoney Trail and 52 Street SE,-113.9477877,50.90660246,2.2,25,18,12,64.4,88.96,Mainly Clear ,6
+Stoney Trail and 52 Street SE,-113.9477877,50.90660246,2.2,25,18,12,64.4,88.96,Mainly Clear ,6
+Stoney Trail and 52 Street SE,-113.953452,50.90406448,-21.4,80,15,14,2.8,88.54, ,6
+Stoney Trail and 52 Street SE,-113.953452,50.90406448,-21.4,80,15,14,2.8,88.54, ,6
+Stoney Trail and 52 Street SE,-113.953452,50.90406448,-21.4,80,15,14,2.8,88.54, ,6
+Stoney Trail and 52 Street SE,-113.953452,50.90406448,-21.4,80,15,14,2.8,88.54, ,6
+Southbound Deerfoot Trail and 130 Avenue SE,-113.9756321,50.92859089,-21,77,22,7,11.3,89.98, ,6
+Southbound Deerfoot Trail and 130 Avenue SE,-113.9756321,50.92859089,-21,77,22,7,11.3,89.98, ,6
+Southbound Deerfoot Trail and 130 Avenue SE,-113.9756321,50.92859089,-21,77,22,7,11.3,89.98, ,6
+Southbound Deerfoot Trail and 130 Avenue SE,-113.9756321,50.92859089,-21,77,22,7,11.3,89.98, ,6
+Southbound Deerfoot Trail and 130 Avenue SE,-113.9757028,50.93003181,-9.2,56,32,7,24.1,89.25,Mainly Clear ,6
+Southbound Deerfoot Trail and 130 Avenue SE,-113.9757028,50.93003181,-9.2,56,32,7,24.1,89.25,Mainly Clear ,6
+Southbound Deerfoot Trail and 130 Avenue SE,-113.9757028,50.93003181,-9.2,56,32,7,24.1,89.25,Mainly Clear ,6
+Southbound Deerfoot Trail and 130 Avenue SE,-113.9757028,50.93003181,-9.2,56,32,7,24.1,89.25,Mainly Clear ,6
+Southbound Deerfoot Trail and 130 Avenue SE,-113.9788897,50.93198252,-15.6,85,15,14,6.4,88.83, ,6
+Southbound Deerfoot Trail and 130 Avenue SE,-113.9788897,50.93198252,-15.6,85,15,14,6.4,88.83, ,6
+Southbound Deerfoot Trail and 130 Avenue SE,-113.9788897,50.93198252,-15.6,85,15,14,6.4,88.83, ,6
+Southbound Deerfoot Trail and 130 Avenue SE,-113.9788897,50.93198252,-15.6,85,15,14,6.4,88.83, ,6
+Southbound Deerfoot Trail and 130 Avenue SE,-113.9757334,50.93523041,-5,64,3,5,64.4,89.33,Mainly Clear ,6
+Southbound Deerfoot Trail and 130 Avenue SE,-113.9757334,50.93523041,-5,64,3,5,64.4,89.33,Mainly Clear ,6
+Southbound Deerfoot Trail and 130 Avenue SE,-113.9757334,50.93523041,-5,64,3,5,64.4,89.33,Mainly Clear ,6
+Southbound Deerfoot Trail and 130 Avenue SE,-113.9757334,50.93523041,-5,64,3,5,64.4,89.33,Mainly Clear ,6
+Southbound Mckenzie Lake Boulevard at Stoney Trail SE,-113.9922438,50.89786072,-19.6,76,35,32,9.7,89.38, ,6
+Southbound Barlow Trail at 106 Avenue SE,-113.9815312,50.95793435,-16.6,80,1,30,4,89.16, ,8
+Southbound Barlow Trail at 106 Avenue SE,-113.9815312,50.95793435,-16.6,80,1,30,4,89.16, ,8
+Southbound Barlow Trail at 106 Avenue SE,-113.9815312,50.95793435,-5.6,76,19,9,24.1,89.03,Mostly Cloudy ,8
+Southbound Barlow Trail at 106 Avenue SE,-113.9815312,50.95793435,-5.6,76,19,9,24.1,89.03,Mostly Cloudy ,8
+Mahogany Gate and Mahogany Pz SE,-113.9403934,50.89948113,-13.9,70,16,4,64.4,88.24,Mostly Cloudy ,6
+Westbound 130 Avenue and 52 Street SE,-113.9588005,50.93156776,-20.8,70,18,18,24.1,89.44,Ice Crystals ,6
+Barlow Trail and Glenmore Trail SE,-113.9843501,50.9795238,-18.8,77,36,28,4,89.02,"Snow Grains,Blowing Snow ",8
+Barlow Trail and Glenmore Trail SE,-113.9843501,50.9795238,-18.8,77,36,28,4,89.02,"Snow Grains,Blowing Snow ",8
+Barlow Trail and Glenmore Trail SE,-113.9843501,50.9795238,-18.8,77,36,28,4,89.02,"Snow Grains,Blowing Snow ",8
+Barlow Trail and Glenmore Trail SE,-113.9843501,50.9795238,-22.2,74,8,11,8.1,89.34, ,8
+Barlow Trail and Glenmore Trail SE,-113.9843501,50.9795238,-22.2,74,8,11,8.1,89.34, ,8
+Barlow Trail and Glenmore Trail SE,-113.9843501,50.9795238,-22.2,74,8,11,8.1,89.34, ,8
+Barlow Trail and Glenmore Trail SE,-113.9843501,50.9795238,-17.6,80,36,17,6.4,89.56, ,8
+Barlow Trail and Glenmore Trail SE,-113.9843501,50.9795238,-17.6,80,36,17,6.4,89.56, ,8
+Barlow Trail and Glenmore Trail SE,-113.9843501,50.9795238,-17.6,80,36,17,6.4,89.56, ,8
+Northbound Deerfoot Trail and Seton Boulevard SE,-113.9737607,50.89424658,-20.6,71,35,33,6.4,88.58, ,6
+Westbound Glenmore Trail and Ogden Road SE,-113.9996359,50.97952538,-20.6,71,35,33,6.4,88.58, ,8
+114 Avenue and Stoney Trail SE,-113.9204676,50.9475942,-23.8,75,19,7,24.1,87.71,Mostly Cloudy ,7
+114 Avenue and Stoney Trail SE,-113.9204676,50.9475942,-23.8,75,19,7,24.1,87.71,Mostly Cloudy ,7
+114 Avenue and Stoney Trail SE,-113.9204676,50.9475942,-23.8,75,19,7,24.1,87.71,Mostly Cloudy ,7
+114 Avenue and Stoney Trail SE,-113.9204676,50.9475942,-23.8,75,19,7,24.1,87.71,Mostly Cloudy ,7
+114 Avenue and Stoney Trail SE,-113.9294816,50.94941477,-27,60,6,5,24.1,88.55,Mainly Clear ,7
+114 Avenue and Stoney Trail SE,-113.9294816,50.94941477,-27,60,6,5,24.1,88.55,Mainly Clear ,7
+114 Avenue and Stoney Trail SE,-113.9294816,50.94941477,-27,60,6,5,24.1,88.55,Mainly Clear ,7
+114 Avenue and Stoney Trail SE,-113.9294816,50.94941477,-27,60,6,5,24.1,88.55,Mainly Clear ,7
+114 Avenue and Stoney Trail SE,-113.9202409,50.9475633,-9.9,85,5,16,6.4,89.68, ,7
+114 Avenue and Stoney Trail SE,-113.9202409,50.9475633,-9.9,85,5,16,6.4,89.68, ,7
+114 Avenue and Stoney Trail SE,-113.9202409,50.9475633,-9.9,85,5,16,6.4,89.68, ,7
+114 Avenue and Stoney Trail SE,-113.9202409,50.9475633,-9.9,85,5,16,6.4,89.68, ,7
+114 Avenue and Stoney Trail SE,-113.9294816,50.94941477,0.6,94,0,1,24.1,90.01,Mostly Cloudy ,7
+114 Avenue and Stoney Trail SE,-113.9294816,50.94941477,0.6,94,0,1,24.1,90.01,Mostly Cloudy ,7
+114 Avenue and Stoney Trail SE,-113.9294816,50.94941477,0.6,94,0,1,24.1,90.01,Mostly Cloudy ,7
+114 Avenue and Stoney Trail SE,-113.9294816,50.94941477,0.6,94,0,1,24.1,90.01,Mostly Cloudy ,7
+114 Avenue and 84 Street SE,-113.9119371,50.94748865,-28.3,69,34,15,3.2,88.19, ,7
+44 Street and 114 Avenue SE,-113.9719901,50.95053621,-24.7,69,3,20,6.4,89.85,Snow Grains ,8
+Northbound Deerfoot Trail approaching 24 Street SE,-113.9995705,50.9478168,-22.6,71,1,22,3.2,89.73,"Snow Grains,Blowing Snow ",8
+Northbound Deerfoot Trail approaching 24 Street SE,-113.9995705,50.9478168,-22.6,71,1,22,3.2,89.73,"Snow Grains,Blowing Snow ",8
+Northbound Deerfoot Trail approaching 24 Street SE,-113.9979174,50.94772716,-11.4,68,19,8,24.1,88.78,Mostly Cloudy ,8
+Northbound Deerfoot Trail approaching 24 Street SE,-113.9979174,50.94772716,-11.4,68,19,8,24.1,88.78,Mostly Cloudy ,8
+Eastbound Stoney Trail to Northbound Deerfoot Trail SE,-113.9744749,50.90373753,-22.3,76,1,19,4,89.52, ,6
+Northbound Deerfoot Trail to Westbound Stoney Trail SE,-113.9744819,50.9022407,-22.3,76,1,19,4,89.52, ,6
+Northbound 52 Street north of 130 Avenue SE,-113.9578047,50.93391287,-27.6,77,18,9,8.1,89.26,Ice Crystals ,6
+Northbound Stoney Trail at 114 Avenue SE,-113.9202768,50.95218816,-15.7,86,4,21,2.4,88.12, ,7
+Westbound Glenmore Trail  west of Stoney Trail SE,-113.9256288,50.9798097,-13.5,65,33,13,64.4,90.23,Mainly Clear ,7
+52 Street and New Brighton Drive SE,-113.9581879,50.92539192,-8.3,72,33,21,16.1,90.06,Mostly Cloudy ,6
+Southbound 52 Street approaching 130 Avenue SE,-113.9582969,50.93202634,-6.4,53,36,3,64.4,89.07,Mostly Cloudy ,6
+Eastbound Auburn Bay Avenue at 52 Street SE,-113.9431653,50.89103967,-13.1,84,1,44,1.2,89.45, ,6
+Eastbound Stoney Trail approaching Deerfoot Trail SE,-113.9866163,50.89832086,-19,83,16,21,17.7,88.78,Cloudy ,6
+Southbound 52 Street at 126 Avenue SE,-113.9583521,50.93458534,-4.2,95,13,15,0.2,88.9, ,6
+Southbound Barlow Trail and 114 Avenue SE,-113.9815496,50.9517023,-7.7,58,20,4,64.4,89.22,Mainly Clear ,8
+52 Street south of 130 Avenue SE,-113.9585482,50.92891151,-4.9,40,36,1,64.4,88.52,Mostly Cloudy ,6
+57 Street and 72 Avenue SE,-113.9467847,50.98950321,-9.3,91,11,9,1.6,89.1, ,7
+57 Street and 72 Avenue SE,-113.9467847,50.98950321,-9.3,91,11,9,1.6,89.1, ,7
+57 Street and 72 Avenue SE,-113.9467847,50.98950321,7.8,67,33,3,4.8,89.28,Smoke ,7
+57 Street and 72 Avenue SE,-113.9467847,50.98950321,7.8,67,33,3,4.8,89.28,Smoke ,7
+Deerfoot Trail at Seton Boulevard SE,-113.9737607,50.89424658,-9,91,15,11,4.8,89.06, ,6
+Southbound Stoney Trail and 114 Avenue SE,-113.9212918,50.94805054,-5.2,92,36,9,24.1,89.14, ,7
+Southbound Stoney Trail and 114 Avenue SE,-113.9212918,50.94805054,-5.2,92,36,9,24.1,89.14, ,7
+Southbound Stoney Trail and 114 Avenue SE,-113.9212918,50.94805054,-5.2,92,36,9,24.1,89.14, ,7
+Southbound Stoney Trail and 114 Avenue SE,-113.9207641,50.9457583,-7.4,86,36,18,6.4,87.98, ,7
+Southbound Stoney Trail and 114 Avenue SE,-113.9207641,50.9457583,-7.4,86,36,18,6.4,87.98, ,7
+Southbound Stoney Trail and 114 Avenue SE,-113.9207641,50.9457583,-7.4,86,36,18,6.4,87.98, ,7
+Southbound Stoney Trail and 114 Avenue SE,-113.9294816,50.94941477,-7.4,86,36,18,6.4,87.98, ,7
+Southbound Stoney Trail and 114 Avenue SE,-113.9294816,50.94941477,-7.4,86,36,18,6.4,87.98, ,7
+Southbound Stoney Trail and 114 Avenue SE,-113.9294816,50.94941477,-7.4,86,36,18,6.4,87.98, ,7
+Northbound Deerfoot Trail approaching Stoney Trail SE,-113.9866163,50.89832086,-5.2,92,36,9,24.1,89.14, ,6
+Cranston Avenue at Cranberry Road SE,-113.9760989,50.87912441,-11.9,61,19,11,32.2,87.95,Mostly Cloudy ,6
+Westbound Glenmore Trail at Stoney Trail SE,-113.9182291,50.97959826,-12.3,77,36,21,24.1,89.74,Cloudy ,7
+Westbound 106 Avenue approaching Barlow Trail SE,-113.9772577,50.95791966,-12.3,77,36,21,24.1,89.74,Cloudy ,8
+Northbound 52 Street and 94 Avenue SE,-113.9590284,50.96862539,-5.9,86,33,18,2.8,88.77, ,8
+Ogden Road and Glenmore Trail SE,-113.9996359,50.97952538,-2.7,94,3,13,0.8,87.74, ,8
+Northbound Deerfoot Trail at McKenzie Lake Boulevard SE,-113.975257,50.91280136,-4.3,82,20,5,64.4,89.15,Mostly Cloudy ,6
+106 Avenue and 48 Street SE,-113.9652554,50.95791023,-12.3,80,1,21,6.4,90.07, ,8
+106 Avenue and 48 Street SE,-113.9652554,50.95791023,-12.3,80,1,21,6.4,90.07, ,8
+106 Avenue and 48 Street SE,-113.9652554,50.95791023,-5.9,90,7,12,3.2,89.78, ,8
+106 Avenue and 48 Street SE,-113.9652554,50.95791023,-5.9,90,7,12,3.2,89.78, ,8
+Mahogany Drive and 52 Street SE,-113.9426104,50.89103518,-8.2,29,25,21,24.1,88.81,Mostly Cloudy ,6
+Mckenzie Towne Boulevard and Inverness Gate SE,-113.9647416,50.91626751,-15.1,74,23,8,64.4,89.79,Clear ,6
+Westbound 106 Avenue at 42 Street SE,-113.974077,50.95789796,-11.8,63,36,5,64.4,89.78,Clear ,8
+Stoney Trail at Deerfoot Trail SE,-113.9753599,50.89993362,-8.8,79,3,17,6.4,88.98, ,6
+Eastbound Glenmore Trail approaching 52 Street SE,-113.9626993,50.97945263,-5.9,33,27,17,64.4,88.13,Mostly Cloudy ,8
+Southbound Deerfoot Trail south of Cranston Avenue SE,-113.9634082,50.87515681,-8.5,27,28,21,64.4,88.68,Mostly Cloudy ,6
+Westbound Stoney Trail at Cranston Boulevard SE,-113.9919307,50.89735448,-8.1,45,6,7,24.1,89.01,Mostly Cloudy ,6
+Westbound Stoney Trail at Cranston Boulevard SE,-113.9919307,50.89735448,-8.1,45,6,7,24.1,89.01,Mostly Cloudy ,6
+Westbound Stoney Trail at Cranston Boulevard SE,-113.9877879,50.89809875,-15.3,71,33,31,4.8,88.7, ,6
+Westbound Stoney Trail at Cranston Boulevard SE,-113.9877879,50.89809875,-15.3,71,33,31,4.8,88.7, ,6
+Westbound Glenmore Trail and 24 Street SE,-113.997958,50.97953642,-2.2,46,35,3,48.3,88.37,Mostly Cloudy ,8
+Front Street and Seton Square SE,-113.9527445,50.88070025,-3.4,80,35,7,48.3,89.42,Mainly Clear ,6
+Northbound 52 Street at Glenmore Trail SE,-113.9582737,50.97862569,-5,24,5,10,32.2,89.15,Cloudy ,8
+Northbound 52 Street at Glenmore Trail SE,-113.9582737,50.97862569,-5,24,5,10,32.2,89.15,Cloudy ,8
+Northbound 52 Street at Glenmore Trail SE,-113.958694,50.98132513,1.3,76,34,62,24.1,88.33,Rain Showers ,8
+Northbound 52 Street at Glenmore Trail SE,-113.958694,50.98132513,1.3,76,34,62,24.1,88.33,Rain Showers ,8
+Westbound Glenmore Trail approaching Barlow Trail SE,-113.976423,50.97965372,1.3,76,34,62,24.1,88.33,Rain Showers ,8
+Westbound Glenmore Trail approaching Barlow Trail SE,-113.976423,50.97965372,1.3,76,34,62,24.1,88.33,Rain Showers ,8
+Westbound Glenmore Trail approaching Barlow Trail SE,-113.9776299,50.97964191,-9.9,82,21,5,64.4,89.18,Mainly Clear ,8
+Westbound Glenmore Trail approaching Barlow Trail SE,-113.9776299,50.97964191,-9.9,82,21,5,64.4,89.18,Mainly Clear ,8
+Eastbound Stoney Trail at Deerfoot Trail SE,-113.9774591,50.89962938,-5.9,89,6,12,4,89.81, ,6
+Eastbound Stoney Trail at Deerfoot Trail SE,-113.9774591,50.89962938,-5.9,89,6,12,4,89.81, ,6
+Eastbound Stoney Trail at Deerfoot Trail SE,-113.9866163,50.89832086,-17.1,74,17,30,9.7,89.59, ,6
+Eastbound Stoney Trail at Deerfoot Trail SE,-113.9866163,50.89832086,-17.1,74,17,30,9.7,89.59, ,6
+Auburn Bay Drive and 52 Street SE,-113.9452876,50.8994997,-5.9,89,6,12,4,89.81, ,6
+Eastbound Deerfoot Trail and Stoney Trail SE,-113.9866163,50.89832086,-5.9,90,7,12,3.2,89.78, ,6
+Front Street and 45 Street SE,-113.9484412,50.88156525,-5.9,90,7,12,3.2,89.78, ,6
+Southbound Barlow Trail approaching Glenmore Trail SE,-113.981917,50.98330736,-3.9,49,19,7,32.2,88.81,Mostly Cloudy ,8
+Westbound Stoney Trail and 88 Street SE,-113.9072662,50.90643896,-4.8,91,35,17,2.4,88.78, ,6
+Douglas Woods Close and Douglasdale Boulevard SE,-113.9939316,50.94125097,-3.8,90,6,14,4,88.84, ,8
+Northbound Barlow Trail and 90 Avenue SE,-113.9824058,50.97232841,-3.9,93,5,11,0.4,88.91,Heavy Snow ,8
+78 Avenue and Ogden Road SE,-113.9987792,50.98322047,-4,93,7,12,0.8,88.94,Moderate Snow ,8
+Northbound Stoney Trail at Seton Boulevard  SE,-113.9648993,50.90138786,-3,91,1,7,4.8,88.63, ,6
+Mahogany Way at Mahogany Boulevard SE,-113.92836,50.90238127,-6.5,72,15,21,9.7,89.95, ,6
+46 Street and 130 Avenue SE,-113.9682599,50.93200196,1.7,86,28,4,16.1,89.89,Cloudy ,6
+Southbound Barlow Trail approaching 114 Avenue SE,-113.9815516,50.95196544,4.8,53,4,18,64.4,89.18,Cloudy ,8
+114 Avenue at 56 Street SE,-113.9519495,50.95059603,-1.4,32,33,9,64.4,89.35,Mostly Cloudy ,8
+Mcivor Boulevard and 130 Avenue SE,-113.9353036,50.92841774,4.3,96,13,11,4.8,89.21, ,6
+Mcivor Boulevard and 130 Avenue SE,-113.9353036,50.92841774,4.3,96,13,11,4.8,89.21, ,6
+Mcivor Boulevard and 130 Avenue SE,-113.9352567,50.92868732,4.3,96,13,11,4.8,89.21, ,6
+Mcivor Boulevard and 130 Avenue SE,-113.9352567,50.92868732,4.3,96,13,11,4.8,89.21, ,6
+Seton Drive and Seton Wy SE,-113.9575011,50.87678919,4.4,71,1,19,9.7,89.25, ,6
+114 Avenue at 68 Street SE,-113.9352428,50.95007302,0.7,96,33,8,4.8,89.01, ,7
+Mckenzie Lake Boulevard at Mckenzie Drive SE,-113.9910194,50.90205454,2.9,80,6,14,9.7,89.45,Haze ,6
+114 Avenue at 42 Street SE,-113.975004,50.95047738,2.6,38,16,17,48.3,88.43,Mostly Cloudy ,8
+114 Avenue at 42 Street SE,-113.975004,50.95047738,2.6,38,16,17,48.3,88.43,Mostly Cloudy ,8
+114 Avenue at 42 Street SE,-113.9756016,50.95053441,-23.4,80,18,12,9.7,88.85,Ice Crystals ,8
+114 Avenue at 42 Street SE,-113.9756016,50.95053441,-23.4,80,18,12,9.7,88.85,Ice Crystals ,8
+Southbound 52 Street at Mckenzie Towne Boulevard SE,-113.9583231,50.91814304,7.8,86,36,21,3.2,88.35,"Rain Showers, ",6
+74 Avenue and Ogden Road SE,-113.9987945,50.98688418,2.5,77,22,6,14.5,89.67,Mostly Cloudy ,8
+Eastbound Cranston Avenue approaching Deerfoot Trail SE,-113.9705025,50.87940209,2.5,77,22,6,14.5,89.67,Mostly Cloudy ,6
+Seton and Boulevard Seton Wy SE,-113.9578147,50.8769504,-0.8,25,28,26,24.1,88.46,Mainly Clear ,6
+Northbound Deerfoot Trail north of Mckenzie Lake Boulevard SE,-113.9751663,50.91755756,5.6,64,19,10,9.7,88.41,Smoke ,6
+Eastbound Glenmore Trail approaching 68 Street SE,-113.9357872,50.97947447,7.9,87,34,23,4,88.75, ,7
+Eastbound Glenmore Trail approaching 68 Street SE,-113.9357872,50.97947447,7.9,87,34,23,4,88.75, ,7
+Eastbound Glenmore Trail approaching 68 Street SE,-113.9351888,50.97964414,11,40,20,10,9.7,89.43,27,7
+Eastbound Glenmore Trail approaching 68 Street SE,-113.9351888,50.97964414,11,40,20,10,9.7,89.43,27,7
+Eastbound Glenmore Trail west of 52 Street SE,-113.9622581,50.97945483,4.4,56,23,10,8.1,89.67,Smoke ,8
+86 Avenue and Shepard Road SE,-113.9942394,50.97621482,9,37,18,10,2.8,88.85,25,8
+Seton Boulevard and 52 Street SE,-113.9423111,50.88513823,6.2,43,35,9,1.6,88.95,Smoke ,6
+114 Avenue at 52 Street SE,-113.9580772,50.95048044,3.6,20,22,5,8.1,88.63,28,8
+Eastbound Stoney Trail past 52 Street SE,-113.9415065,50.90576324,3.6,20,22,5,8.1,88.63,28,6
+Eastbound Stoney Trail past 52 Street SE,-113.9415065,50.90576324,3.6,20,22,5,8.1,88.63,28,6
+Eastbound Stoney Trail past 52 Street SE,-113.9385965,50.9060799,3.6,20,22,5,8.1,88.63,28,6
+Eastbound Stoney Trail past 52 Street SE,-113.9385965,50.9060799,3.6,20,22,5,8.1,88.63,28,6
+Westbound 106 Avenue at 52 Street SE,-113.9589582,50.95784607,5.3,42,15,5,24.1,89.5,Mainly Clear ,8
+Cranston Road and Cranston Drive SE,-113.9790246,50.88215964,5.4,16,17,17,9.7,88.67,34,6
+Northbound Deerfoot Trail approaching Douglas Dale Boulevard SE,-113.9915959,50.94702216,6.3,23,14,19,6.4,89.01,29,8
+72 Avenue at 52 Street SE,-113.9590314,50.98956083,8,70,36,2,8.1,89.23,Smoke ,8
+Northbound 52 Street at 114 Avenue SE,-113.9586708,50.95059537,12.1,62,19,15,8.1,88.98,Smoke ,8
+McIvor Boulevard and New Brighton Avenue SE,-113.9328835,50.92294008,14.3,55,18,18,16.1,89.27,27,6
+52 Street at 114 Avenue SE,-113.958237,50.95050801,2.8,18,12,13,24.1,89.36,28,8
+Southbound Stoney Trail south of 114 Avenue SE,-113.9294816,50.94941477,9,27,36,2,9.7,89.37,31,7
+Westbound 130 Avenue west of Deerfoot Trail SE,-113.9788897,50.93198252,11.2,35,18,10,9.7,89.41,30,6
+86 Avenue at Shepard Road SE,-113.9945998,50.97604125,11.3,79,3,13,16.1,89.84,Cloudy ,8
+114 Avenue at 40 Street SE,-113.9782741,50.95010873,11.4,83,3,9,9.7,89.86, ,8
+Mt Mckenzie Drive and Mt Brewster Ci SE,-113.9817367,50.92016935,11.6,74,15,5,8.1,89.07,"Thunderstorms,Rain Showers ",6
+Southbound Deerfoot Trail and Mckenzie Lake Blvd SE,-113.9785655,50.91651917,13,53,16,18,48.3,88.99,26,6
+29 Street and 114 Avenue SE,-113.9961732,50.95096904,2.6,20,5,10,64.4,89.26,26,8
+Auburn Bay Drive at 52 Street SE,-113.9452876,50.8994997,10.3,53,35,14,48.3,89.11,Clear ,6
+Eastbound Glenmore Trail at 68 Street SE,-113.9351888,50.97964414,9.1,32,13,13,48.3,89.17,28,7
+Eastbound Glenmore Trail and Stoney Trail SE,-113.9292702,50.97964026,11.5,41,16,30,48.3,89.64,27,7
+MT Mckenzie Drive and 130 Avenue SE,-113.9837058,50.93157542,6.9,52,15,16,32.2,90,Mainly Clear ,6
+New Brighton Cm and New Brighton Wy SE,-113.9454447,50.91599498,6.9,52,15,16,32.2,90,Mainly Clear ,6
+Westbound Glenmore Trail approaching 52 Street SE,-113.9619371,50.97964243,4.4,55,34,6,32.2,88.65,Mostly Cloudy ,8
+Westbound Glenmore Trail approaching 52 Street SE,-113.9619371,50.97964243,4.4,55,34,6,32.2,88.65,Mostly Cloudy ,8
+Westbound Glenmore Trail approaching 52 Street SE,-113.9506851,50.97963058,11.5,61,36,2,48.3,88.82,Mainly Clear ,8
+Westbound Glenmore Trail approaching 52 Street SE,-113.9506851,50.97963058,11.5,61,36,2,48.3,88.82,Mainly Clear ,8
+Northbound 52 Street and Mckenzie Towne Boulevard SE,-113.9587165,50.91830077,-1,30,27,32,64.4,88.56,Mainly Clear ,6
+Mount Mckenzie Bay and Mount Mckenzie Drive SE,-113.9828591,50.92992565,-5.1,22,27,40,64.4,88.6,Clear ,6
+106 Avenue and Barlow Trail SE,-113.98038,50.9578955,-4.5,19,29,32,64.4,88.48,Mainly Clear ,8
+New Brighton Drive and 52 Street SE,-113.9581879,50.92539192,11.4,89,33,33,8.1,88.54,"Rain Showers, ",6
+Westbound 130 Avenue approaching 52 Street SE,-113.9511368,50.92877551,7.4,30,16,26,64.4,89.02,26,6
+24 Street and Glenmore Trail SE,-113.9990751,50.97791242,7.4,50,20,15,64.4,89.34,Mainly Clear ,8
+Eastbound Stoney Trail exit ramp onto 52 Street SE,-113.9509311,50.90376768,5.1,30,16,12,64.4,89.5,Mainly Clear ,6
+Northbound 52 Street at 76 Avenue SE,-113.9583647,50.98496409,7.6,55,22,4,64.4,89.59,Mainly Clear ,8
+Northbound 52 Street at 76 Avenue SE,-113.9583647,50.98496409,7.6,55,22,4,64.4,89.59,Mainly Clear ,8
+Northbound 52 Street at 76 Avenue SE,-113.9583647,50.98496409,7.6,55,22,4,64.4,89.59,Mainly Clear ,8
+Northbound 52 Street at 76 Avenue SE,-113.9589577,50.98510266,4.9,35,22,8,64.4,88.79,Mainly Clear ,8
+Northbound 52 Street at 76 Avenue SE,-113.9589577,50.98510266,4.9,35,22,8,64.4,88.79,Mainly Clear ,8
+Northbound 52 Street at 76 Avenue SE,-113.9589577,50.98510266,4.9,35,22,8,64.4,88.79,Mainly Clear ,8
+Northbound 52 Street at 76 Avenue SE,-113.9583628,50.98510317,-9.9,82,21,5,64.4,89.18,Mainly Clear ,8
+Northbound 52 Street at 76 Avenue SE,-113.9583628,50.98510317,-9.9,82,21,5,64.4,89.18,Mainly Clear ,8
+Northbound 52 Street at 76 Avenue SE,-113.9583628,50.98510317,-9.9,82,21,5,64.4,89.18,Mainly Clear ,8
+Deerfoot Trail and Stoney Trail SE,-113.9806426,50.89743037,-2.4,36,32,26,64.4,88.12,Cloudy ,6
+Deerfoot Trail and Stoney Trail SE,-113.9806426,50.89743037,-2.4,36,32,26,64.4,88.12,Cloudy ,6
+Deerfoot Trail and Stoney Trail SE,-113.9806426,50.89743037,-2.4,36,32,26,64.4,88.12,Cloudy ,6
+Deerfoot Trail and Stoney Trail SE,-113.9866163,50.89832086,-18.4,77,36,26,4.8,89.69, ,6
+Deerfoot Trail and Stoney Trail SE,-113.9866163,50.89832086,-18.4,77,36,26,4.8,89.69, ,6
+Deerfoot Trail and Stoney Trail SE,-113.9866163,50.89832086,-18.4,77,36,26,4.8,89.69, ,6
+Deerfoot Trail and Stoney Trail SE,-113.9866163,50.89832086,-29.4,74,18,10,8.1,89.49,Ice Crystals ,6
+Deerfoot Trail and Stoney Trail SE,-113.9866163,50.89832086,-29.4,74,18,10,8.1,89.49,Ice Crystals ,6
+Deerfoot Trail and Stoney Trail SE,-113.9866163,50.89832086,-29.4,74,18,10,8.1,89.49,Ice Crystals ,6
+Northbound 40 Street approaching 114 Avenue SE,-113.9781107,50.94956949,0.6,18,36,3,32.2,88.51,Mostly Cloudy ,8
+Southbound 52 Street approaching Stoney Trail SE,-113.9383675,50.90683386,-1.1,25,23,24,64.4,88.13,Mainly Clear ,6
+Deerfoot Trail and McKenzie Towne Boulevard SE,-113.9755569,50.91656533,5,70,34,12,24.1,89.45,Clear ,6
+106 Avenue at Barlow Trail SE,-113.9815312,50.95793435,5.3,88,11,16,6.4,88.82,"Rain Showers, ",8
+Mckenzie Lake Boulevard and Mt Mckenzie Drive SE,-113.9814758,50.91645854,3.2,22,13,15,64.4,88.26,25,6
+Glenmore Trail at 52 Street SE,-113.9619371,50.97964243,5.3,94,4,16,8.1,89.87, ,8
+Barlow Trail and 106 Avenue SE,-113.9815312,50.95793435,6.8,92,4,24,6.4,89.64,"Rain Showers, ",8
+Barlow Trail and 106 Avenue SE,-113.9815312,50.95793435,6.8,92,4,24,6.4,89.64,"Rain Showers, ",8
+Barlow Trail and 106 Avenue SE,-113.9815312,50.95793435,2.6,85,16,16,14.5,89.18,Rain Showers ,8
+Barlow Trail and 106 Avenue SE,-113.9815312,50.95793435,2.6,85,16,16,14.5,89.18,Rain Showers ,8
+Auburn Bay Boulevard and Auburn Bay Gate SE,-113.958832,50.88496849,3,80,1,20,9.7,89.43,Haze ,6
+Mckenzie Towne Boulevard and Mckenzie Towne Gate SE,-113.964747,50.91669454,-2.1,28,28,16,32.2,88.91,Mostly Cloudy ,6
+Eastbound 130 Avenue and 52 Street SE,-113.9588004,50.93156776,-3.7,26,28,24,32.2,88.36,Mainly Clear ,6
+52 Street at New Brighton Drive SE,-113.9581879,50.92539192,2.3,88,35,31,8.1,88.64, ,6
+52 Street at New Brighton Drive SE,-113.9581879,50.92539192,2.3,88,35,31,8.1,88.64, ,6
+52 Street at New Brighton Drive SE,-113.9581879,50.92539192,-11.4,18,22,14,24.1,89.04,Mostly Cloudy ,6
+52 Street at New Brighton Drive SE,-113.9581879,50.92539192,-11.4,18,22,14,24.1,89.04,Mostly Cloudy ,6
+Auburn Bay Boulevard and Auburn Bay Ht SE,-113.9642426,50.88531611,0.8,32,14,31,64.4,88.42,Mainly Clear ,6
+52 Street and Mahogany Gate SE,-113.9446747,50.89952351,-15.1,10,27,13,32.2,89.12,Mostly Cloudy ,6
+130 Avenue and 52 Street SE,-113.9588004,50.93156776,-5.6,52,18,10,24.1,89.48,Mostly Cloudy ,6
+Northbound Stoney Trail at Glemnore Trail SE,-113.9292702,50.97964026,-2.2,89,36,32,0.8,87.84,Moderate Snow ,7
+Westbound 130 Avenue and 50 Street SE,-113.9625465,50.93199047,-2.5,71,18,11,16.1,88.8,Mostly Cloudy ,6
+Southbound Deerfoot Trail and Seton Boulevard SE,-113.9737607,50.89424658,-4.5,91,16,14,3.2,88.58, ,6
+52 Street and McKenzie Towne Li SE,-113.9559272,50.91452802,-12.9,67,9,13,9.7,88.71,Haze ,6
+130 Avenue at Deerfoot Trail SE,-113.9788897,50.93198252,-6.5,89,9,18,4.8,89.42, ,6
+McIvor Boulevard at New Brighton Wy SE,-113.9435275,50.91414259,-6.6,46,21,5,24.1,88.29,Mainly Clear ,6
+Northbound 52 Street north of 126 Avenue SE,-113.9581937,50.93595939,-5.6,80,34,25,4.8,88.94, ,6
+Deerfoot Trail south of Cranston Avenue SE,-113.969454,50.85621974,-1.7,87,3,17,9.7,88.52, ,6
+Southbound 52 Street at 76 Avenue SE,-113.9589577,50.98510266,-6.8,90,21,10,3.2,88.14, ,8
+Southbound 52 Street at 76 Avenue SE,-113.9589577,50.98510266,-6.8,90,21,10,3.2,88.14, ,8
+Southbound 52 Street at 76 Avenue SE,-113.9589577,50.98510266,-6.8,90,21,10,3.2,88.14, ,8
+Southbound 52 Street at 76 Avenue SE,-113.9587242,50.9851024,-29.4,75,17,10,4.8,89.55,Ice Crystals ,8
+Southbound 52 Street at 76 Avenue SE,-113.9587242,50.9851024,-29.4,75,17,10,4.8,89.55,Ice Crystals ,8
+Southbound 52 Street at 76 Avenue SE,-113.9587242,50.9851024,-29.4,75,17,10,4.8,89.55,Ice Crystals ,8
+Southbound 52 Street at 76 Avenue SE,-113.9589577,50.98510266,-8.1,64,20,8,64.4,89.75,Mainly Clear ,8
+Southbound 52 Street at 76 Avenue SE,-113.9589577,50.98510266,-8.1,64,20,8,64.4,89.75,Mainly Clear ,8
+Southbound 52 Street at 76 Avenue SE,-113.9589577,50.98510266,-8.1,64,20,8,64.4,89.75,Mainly Clear ,8
+52 Street at McIvor Boulevard SE,-113.952166,50.9130255,-7.5,85,35,12,6.4,87.98, ,6
+Southbound Stoney Trail after 114 Avenue SE,-113.9205875,50.93992743,-7.4,86,36,18,6.4,87.98, ,7
+Stoney Trail at 114 Avenue SE,-113.920145,50.94753617,-7,87,1,12,6.4,87.98, ,7
+Southbound Deerfoot Trail at McKenzie Lake Boulevard SE,-113.9785655,50.91651917,-5.4,82,1,25,6.4,87.92, ,6
+Cranston Drive and Cranston Boulevard SE,-113.9853556,50.89188605,-5.4,40,9,12,64.4,88.8,Mainly Clear ,6
+130 Avenue at 48 Street SE,-113.9657397,50.93209088,-8,83,18,11,24.1,89.38,Clear ,6
+Northbound 52 Street and New Brighton Drive SE,-113.9581879,50.92539192,-7.2,46,4,10,64.4,89.61,Clear ,6
+Westbound Glenmore Trail  at Stoney Trail SE,-113.9292702,50.97964026,-10.7,84,23,8,24.1,88.98,Clear ,7
+Southbound Deerfoot Trail south of Cranston Boulevard SE,-113.9705025,50.87940209,-11.9,89,4,13,2.4,88.64, ,6
+Southbound Deerfoot Trail at 130 Avenue,-113.9767352,50.93342913,-18.3,36,27,24,24.1,87.53,Clear ,6
+Northbound 52 Street and 86 Avenue SE,-113.9594143,50.97542472,-14.8,83,18,13,24.1,89.31,Clear ,8
+Mount Aberdeen Manor and Mount Mckenzie Drive SE,-113.9835482,50.93147984,-22.7,78,19,5,24.1,89.26,Mainly Clear ,6
+90 Avenue and 52 Street SE,-113.9592036,50.9723512,-31.9,74,34,8,16.1,89.88,Ice Crystals ,8
+Eastbound Stoney Trail between 52 Street and 88 Street SE,-113.9293744,50.90669472,-20.6,80,4,16,1.2,89.54, ,6
+Northbound 52 Street at 90 Avenue SE,-113.9583752,50.97216176,-20.6,80,4,16,1.2,89.54, ,8
+94 Avenue and 54 Street SE,-113.9552918,50.96867885,-16.2,80,6,16,8.1,89.52, ,8
+Northbound 44 Street at 90 Avenue SE,-113.9699831,50.97229684,-13.7,76,1,19,9.7,89.47, ,8
+Northbound Mcivor Boulevard at Copperpond Boulevard SE,-113.9327854,50.92308961,-20.7,66,34,14,48.3,89.47,Mostly Cloudy ,6
+Southbound 52 Street and Glenmore Trail SE,-113.9585855,50.98048706,-24.1,74,36,16,0.6,89.82,Moderate Snow ,8
+Northbound Deerfoot Trail and McKenzie Towne Boulevard SE,-113.9755569,50.91656533,-24.4,73,36,15,0.8,89.8,Moderate Snow ,6
+Eastbound Prestwick Gate at 52 Street SE,-113.9587168,50.92552004,-19,83,18,14,6.4,89.19,Ice Crystals ,6
+Northbound Ogden Road at 78 Avenue SE,-113.9987792,50.98322047,-7.2,56,29,22,64.4,87.71,Mostly Cloudy ,8
+Westbound 114 Avenue and Barlow Trail SE,-113.9821108,50.95052948,-11.3,36,27,21,64.4,87.75,Mainly Clear ,8
+114 Avenue at 35 Street SE,-113.9859094,50.9496543,-26.6,76,18,20,16.1,89.25,Ice Crystals ,8
+Westbound 114 Avenue at Barlow Trail SE,-113.9828187,50.95051394,-27.2,76,18,19,8.1,89.37,Ice Crystals ,8
+Southbound Deerfoot Trail at 130 Avenue SE,-113.9756735,50.9340449,-27.9,77,7,8,8.1,89.52,Ice Crystals ,6
+Southbound 52 Street at Glenmore Trail SE,-113.9586198,50.97997663,-25.8,71,6,14,6.4,89, ,8
+72 Avenue and 48 Street SE,-113.9642255,50.98951003,-2.3,70,36,25,64.4,88.32,Mostly Cloudy ,8
